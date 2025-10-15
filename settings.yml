@@ -1,0 +1,59 @@
+discovery:
+  enabled: true
+  github_lists:
+    - "https://raw.githubusercontent.com/poteto/hiring-without-whiteboards/master/README.md"
+    - "https://raw.githubusercontent.com/j-delaney/easy-application/master/README.md"
+  
+providers:
+  greenhouse:
+    enabled: true
+    timeout: 10
+  lever:
+    enabled: true
+    timeout: 10
+  ashby:
+    enabled: true
+    timeout: 10
+  experimental_jobright_like:
+    enabled: false  # DISABLED by default - requires ToS review
+
+filters:
+  locations:
+    - "United States"
+    - "USA"
+    - "US"
+    - "Remote"
+    - "San Francisco"
+    - "New York"
+    - "Seattle"
+    - "Austin"
+    - "Boston"
+    - "Los Angeles"
+  
+  job_titles:
+    software_engineering:
+      - "Software Engineer"
+      - "Software Developer"
+      - "Backend Engineer"
+      - "Frontend Engineer"
+      - "Full Stack"
+      - "Mobile Engineer"
+      - "iOS Engineer"
+      - "Android Engineer"
+      - "DevOps Engineer"
+      - "Platform Engineer"
+      - "Data Engineer"
+    cybersecurity:
+      - "Security Engineer"
+      - "Cybersecurity"
+      - "Information Security"
+      - "Security Analyst"
+      - "Security Specialist"
+  
+  experience_levels:
+    - "New Grad"
+    - "Entry Level"
+    - "0-1 years"
+    - "Junior"
+    - "Graduate"
+    - "Recent Graduate"

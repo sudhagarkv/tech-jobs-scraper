@@ -1,0 +1,85 @@
+greenhouse:
+  - stripe
+  - databricks
+  - cloudflare
+  - snowflake
+  - datadog
+  - coinbase
+  - rivian
+  - asana
+  - robinhood
+  - affirm
+  - uber
+  - slack
+  - twilio
+  - redfin
+  - palantir
+  - instacart
+  - plaid
+  - atlassian
+  - ripple
+  - lyft
+  - airbnb
+  - pinterest
+  - square
+  - zoom
+  - okta
+  - splunk
+  - elastic
+  - hashicorp
+  - gitlab
+  - mongodb
+
+lever:
+  - mongodb
+  - roblox
+  - notion
+  - rippling
+  - reddit
+  - ramp
+  - doordash
+  - discord
+  - openai
+  - dropbox
+  - sofi
+  - snowflake-compute
+  - canva
+  - figma
+  - airtable
+  - webflow
+  - postman
+  - segment
+  - mixpanel
+  - amplitude
+  - benchling
+  - flexport
+  - checkr
+  - gusto
+  - brex
+
+ashby:
+  - Anthropic
+  - Replit
+  - Scale AI
+  - Retool
+  - Notion
+  - Lambda
+  - Motional
+  - Verkada
+  - Mercury
+  - Sourcegraph
+  - Figma
+  - Faire
+  - Anduril
+  - Cruise
+  - Waymo
+  - Nuro
+  - Aurora
+  - Argo AI
+  - Zoox
+  - Pony.ai
+  - TuSimple
+  - Plus
+  - Embark
+  - Kodiak
+  - Gatik
