@@ -7,6 +7,8 @@ interface FiltersProps {
 }
 
 
+const ROLE_CATEGORIES = ['Software Engineering', 'Cybersecurity'];
+const LEVELS = ['New Grad', 'Entry Level'];
 const POSTED_OPTIONS = [
   { value: 'all', label: 'All (3 months)' },
   { value: '7', label: '7 days' },
@@ -20,7 +22,19 @@ export function FiltersComponent({ filters, onFiltersChange }: FiltersProps) {
     onFiltersChange({ ...filters, ...updates });
   };
 
+  const toggleRoleCategory = (category: string) => {
+    const updated = filters.roleCategories.includes(category)
+      ? filters.roleCategories.filter(c => c !== category)
+      : [...filters.roleCategories, category];
+    updateFilters({ roleCategories: updated });
+  };
 
+  const toggleLevel = (level: string) => {
+    const updated = filters.levels.includes(level)
+      ? filters.levels.filter(l => l !== level)
+      : [...filters.levels, level];
+    updateFilters({ levels: updated });
+  };
 
   const clearFilters = () => {
     onFiltersChange({
@@ -46,7 +60,43 @@ export function FiltersComponent({ filters, onFiltersChange }: FiltersProps) {
         </button>
       </div>
 
+      <div>
+        <label className="block text-sm font-medium mb-2">Role Category</label>
+        <div className="flex flex-wrap gap-2">
+          {ROLE_CATEGORIES.map(category => (
+            <button
+              key={category}
+              onClick={() => toggleRoleCategory(category)}
+              className={`px-3 py-1 rounded-full text-sm border transition-colors ${
+                filters.roleCategories.includes(category)
+                  ? 'bg-blue-100 border-blue-300 text-blue-800'
+                  : 'bg-gray-50 border-gray-200 text-gray-700 hover:bg-gray-100'
+              }`}
+            >
+              {category}
+            </button>
+          ))}
+        </div>
+      </div>
 
+      <div>
+        <label className="block text-sm font-medium mb-2">Level</label>
+        <div className="flex flex-wrap gap-2">
+          {LEVELS.map(level => (
+            <button
+              key={level}
+              onClick={() => toggleLevel(level)}
+              className={`px-3 py-1 rounded-full text-sm border transition-colors ${
+                filters.levels.includes(level)
+                  ? 'bg-green-100 border-green-300 text-green-800'
+                  : 'bg-gray-50 border-gray-200 text-gray-700 hover:bg-gray-100'
+              }`}
+            >
+              {level}
+            </button>
+          ))}
+        </div>
+      </div>
 
       <div>
         <label className="flex items-center gap-2">

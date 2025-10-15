@@ -6,6 +6,8 @@ export interface Job {
   posted_date: string;
   provider: string;
   description: string;
+  role_category: string;
+  level: string;
 }
 
 export interface Filters {

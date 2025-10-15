@@ -38,10 +38,18 @@ export function JobsTable({ jobs, loading }: JobsTableProps) {
         <div className="text-gray-900">{info.getValue()}</div>
       ),
     }),
-    columnHelper.accessor('provider', {
-      header: 'Source',
+    columnHelper.accessor('role_category', {
+      header: 'Role',
       cell: info => (
         <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+          {info.getValue()}
+        </span>
+      ),
+    }),
+    columnHelper.accessor('level', {
+      header: 'Level',
+      cell: info => (
+        <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
           {info.getValue()}
         </span>
       ),

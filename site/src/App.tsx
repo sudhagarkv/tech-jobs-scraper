@@ -28,6 +28,16 @@ function App() {
 
   const filteredJobs = useMemo(() => {
     return jobs.filter(job => {
+      // Role category filter
+      if (filters.roleCategories.length > 0 && !filters.roleCategories.includes(job.role_category)) {
+        return false;
+      }
+
+      // Level filter
+      if (filters.levels.length > 0 && !filters.levels.includes(job.level)) {
+        return false;
+      }
+
       // Remote only filter
       if (filters.remoteOnly && !job.location.toLowerCase().includes('remote')) {
         return false;
