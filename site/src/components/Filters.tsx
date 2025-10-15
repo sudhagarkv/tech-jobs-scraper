@@ -6,7 +6,7 @@ interface FiltersProps {
   onFiltersChange: (filters: Filters) => void;
 }
 
-const PROVIDERS = ['greenhouse', 'lever', 'ashby'];
+
 const POSTED_OPTIONS = [
   { value: 'all', label: 'All (3 months)' },
   { value: '7', label: '7 days' },
@@ -20,19 +20,7 @@ export function FiltersComponent({ filters, onFiltersChange }: FiltersProps) {
     onFiltersChange({ ...filters, ...updates });
   };
 
-  const toggleRoleCategory = (category: string) => {
-    const updated = filters.roleCategories.includes(category)
-      ? filters.roleCategories.filter(c => c !== category)
-      : [...filters.roleCategories, category];
-    updateFilters({ roleCategories: updated });
-  };
 
-  const toggleLevel = (level: string) => {
-    const updated = filters.levels.includes(level)
-      ? filters.levels.filter(l => l !== level)
-      : [...filters.levels, level];
-    updateFilters({ levels: updated });
-  };
 
   const clearFilters = () => {
     onFiltersChange({
