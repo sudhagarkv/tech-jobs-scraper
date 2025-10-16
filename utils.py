@@ -37,6 +37,8 @@ def normalize_company_name(name: str) -> str:
 def is_us_location(location: str) -> bool:
     """Check if location is US-based."""
     import re
+    if not location:
+        return False
     location = location.lower().strip()
     
     # Direct US indicators
@@ -59,29 +61,49 @@ def is_us_location(location: str) -> bool:
     return False
 
 def classify_role_by_title(title: str) -> str:
-    """Classify role category based on title patterns - TITLE FIRST approach."""
+    """Classify role category based on title patterns - EXPANDED approach."""
     import re
     title_lower = title.lower()
     
-    # Cybersecurity patterns
+    # Cybersecurity patterns (expanded)
     cyber_patterns = [
-        r'(security|cyber)\s+(engineer|analyst)\s*(i|1|one)?\b',
-        r'(junior|jr\.?|associate)\s+(security|cyber)\s+(engineer|analyst)',
-        r'(application security|appsec|product security|cloud security|iam|identity|soc|incident response|threat|detection|grc|siem|splunk|vulnerability|pentest)',
-        r'(graduate|new grad|early career)\s+(security|cyber)'
+        r'(security|cyber|infosec)\s+(engineer|analyst|specialist|consultant)',
+        r'(junior|jr\.?|associate|entry|graduate|new grad)\s+(security|cyber)',
+        r'(application security|appsec|product security|cloud security|iam|identity|soc|incident response|threat|detection|grc|siem|splunk|vulnerability|pentest|devsecops)',
+        r'(security|cyber)\s+(engineer|analyst)\s*(i|1|one|entry)?',
+        r'information\s+security',
+        r'risk\s+(analyst|engineer)',
+        r'compliance\s+(analyst|engineer)',
+        r'security\s+(operations|ops)',
+        r'threat\s+(intelligence|hunting|analyst)',
+        r'malware\s+(analyst|researcher)',
+        r'forensics?\s+(analyst|investigator)',
+        r'penetration\s+test',
+        r'ethical\s+hack'
     ]
     
     for pattern in cyber_patterns:
         if re.search(pattern, title_lower):
             return 'Cybersecurity'
     
-    # Software Engineering patterns
+    # Software Engineering patterns (expanded)
     swe_patterns = [
-        r'software engineer\s*(i|1|one)\b',
-        r'(junior|jr\.?|associate)\s+(software|swe|developer|engineer)',
-        r'(software|swe|developer)\s*(i|1|one)\b',
-        r'(graduate|new grad|early career)\s+software',
-        r'(full\s*stack|frontend|front[-\s]*end|backend|back[-\s]*end|mobile|ios|android)\s+(engineer|developer)'
+        r'software\s+(engineer|developer)',
+        r'(junior|jr\.?|associate|entry|graduate|new grad)\s+(software|engineer|developer)',
+        r'(software|swe|developer|engineer)\s*(i|1|one|entry)?\b',
+        r'(full\s*stack|frontend|front[-\s]*end|backend|back[-\s]*end|mobile|ios|android|web|application)\s+(engineer|developer)',
+        r'(data|machine learning|ml|ai|platform|cloud|devops|site reliability|sre)\s+(engineer|developer)',
+        r'(qa|quality assurance|test|testing)\s+(engineer|analyst)',
+        r'systems?\s+(engineer|developer)',
+        r'network\s+(engineer|administrator)',
+        r'database\s+(engineer|administrator|developer)',
+        r'(ui|ux)\s+(engineer|developer)',
+        r'game\s+(developer|programmer)',
+        r'embedded\s+(engineer|developer)',
+        r'firmware\s+(engineer|developer)',
+        r'hardware\s+(engineer|developer)',
+        r'(programmer|coder|developer)\b',
+        r'engineer\s*(i|1|one|entry)?\b'
     ]
     
     for pattern in swe_patterns:
@@ -93,30 +115,29 @@ def classify_role_by_title(title: str) -> str:
 def has_internship_keywords(title: str, description: str) -> bool:
     """Check if job contains internship/co-op keywords."""
     text = f"{title} {description}".lower()
-    internship_keywords = ['intern', 'internship', 'co-op', 'coop', 'trainee', 'apprentice', 'apprenticeship', 'campus', 'fellow', 'fellowship']
+    internship_keywords = ['intern', 'internship', 'co-op', 'coop', 'apprentice', 'apprenticeship', 'fellow', 'fellowship']
+    # Allow 'trainee' and 'campus' as they might be full-time programs
     return any(keyword in text for keyword in internship_keywords)
 
 def has_entry_level_confirmation(description: str) -> bool:
-    """Check if description confirms entry-level requirements."""
+    """Check if description confirms entry-level requirements - RELAXED."""
     import re
     desc_lower = description.lower()
     
-    # Entry-level patterns
-    entry_patterns = [
-        r'0[–-]1\s*years?', r'0\s*to\s*1\s*years?', r'1\s*year\s*preferred',
-        r'0[–-]1\s*year\b', r'0\s*to\s*1\s*year\b'
+    # Strong disqualifying patterns (definitely senior)
+    senior_patterns = [
+        r'5\+\s*years?', r'6\+\s*years?', r'7\+\s*years?', r'8\+\s*years?',
+        r'senior', r'sr\.', r'lead', r'principal', r'staff', r'director', r'manager',
+        r'architect', r'head of', r'vp', r'vice president', r'chief',
+        r'minimum\s+[3-9]\+?\s*years?', r'at least\s+[3-9]\+?\s*years?',
+        r'[3-9]\+\s*years?\s+(required|minimum|experience)'
     ]
     
-    for pattern in entry_patterns:
-        if re.search(pattern, desc_lower):
-            return True
-    
-    # Check for disqualifying patterns
-    senior_patterns = [r'2\+\s*years?', r'3\+\s*years?', r'4\+\s*years?', r'5\+\s*years?']
     for pattern in senior_patterns:
         if re.search(pattern, desc_lower):
             return False
     
+    # If no strong senior indicators, assume it could be entry-level
     return True
 
 def is_relevant_job(job: Dict, settings: Dict) -> bool:
@@ -151,16 +172,10 @@ def is_relevant_job(job: Dict, settings: Dict) -> bool:
     if not role_category:
         return False
     
-    # 4. Entry-level confirmation (optional secondary check)
-    # If title already indicates entry-level, we're good
-    # Otherwise, check description for confirmation
-    title_lower = title.lower()
-    title_entry_indicators = ['junior', 'jr.', 'associate', 'graduate', 'new grad', 'early career', ' i ', ' 1 ', ' one']
-    has_title_entry = any(indicator in title_lower for indicator in title_entry_indicators)
-    
-    if not has_title_entry:
-        if not has_entry_level_confirmation(description):
-            return False
+    # 4. Entry-level confirmation (relaxed approach)
+    # Check description for strong senior indicators
+    if not has_entry_level_confirmation(description):
+        return False
     
     # Store role category for later use
     job['_role_category'] = role_category

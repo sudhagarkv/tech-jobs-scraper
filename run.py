@@ -102,7 +102,25 @@ def main():
     os.makedirs('data', exist_ok=True)
     
     # Sort by posted_date DESC, then company
-    filtered_jobs.sort(key=lambda x: (x.get('posted_date', ''), x.get('company', '')), reverse=True)
+    from datetime import datetime, timezone
+    def sort_key(job):
+        posted_date = job.get('posted_date', '')
+        try:
+            if posted_date:
+                # Handle different date formats and ensure timezone awareness
+                if 'Z' in posted_date:
+                    date_obj = datetime.fromisoformat(posted_date.replace('Z', '+00:00'))
+                elif '+' in posted_date or '-' in posted_date[-6:]:
+                    date_obj = datetime.fromisoformat(posted_date)
+                else:
+                    # Assume UTC if no timezone info
+                    date_obj = datetime.fromisoformat(posted_date).replace(tzinfo=timezone.utc)
+                return (date_obj, job.get('company', ''))
+        except:
+            pass
+        return (datetime.min.replace(tzinfo=timezone.utc), job.get('company', ''))
+    
+    filtered_jobs.sort(key=sort_key, reverse=True)
     
     # Deduplicate by company + title + url
     seen = set()

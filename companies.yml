@@ -29,6 +29,101 @@ greenhouse:
   - hashicorp
   - gitlab
   - mongodb
+  - google
+  - amazon
+  - meta
+  - apple
+  - microsoft
+  - netflix
+  - tesla
+  - nvidia
+  - salesforce
+  - oracle
+  - adobe
+  - intuit
+  - servicenow
+  - workday
+  - palo-alto-networks
+  - crowdstrike
+  - zscaler
+  - fortinet
+  - checkpoint
+  - rapid7
+  - qualys
+  - veracode
+  - okta
+  - cyberark
+  - proofpoint
+  - fireeye
+  - symantec
+  - mcafee
+  - cisco
+  - vmware
+  - dell
+  - hp
+  - ibm
+  - accenture
+  - deloitte
+  - pwc
+  - ey
+  - kpmg
+  - jpmorgan
+  - goldman-sachs
+  - morgan-stanley
+  - bank-of-america
+  - wells-fargo
+  - citigroup
+  - american-express
+  - visa
+  - mastercard
+  - paypal
+  - square
+  - shopify
+  - ebay
+  - etsy
+  - wayfair
+  - zillow
+  - redfin
+  - doordash
+  - grubhub
+  - postmates
+  - instacart
+  - peloton
+  - zoom
+  - slack
+  - dropbox
+  - box
+  - atlassian
+  - jira
+  - confluence
+  - github
+  - gitlab
+  - docker
+  - kubernetes
+  - red-hat
+  - canonical
+  - mongodb
+  - elastic
+  - databricks
+  - snowflake
+  - tableau
+  - looker
+  - domo
+  - qlik
+  - sisense
+  - alteryx
+  - dataiku
+  - h2o
+  - datarobot
+  - c3ai
+  - palantir
+  - anduril
+  - scale-ai
+  - openai
+  - anthropic
+  - cohere
+  - huggingface
+  - stability-ai
 
 lever:
   - mongodb
@@ -56,6 +151,84 @@ lever:
   - checkr
   - gusto
   - brex
+  - google
+  - amazon
+  - meta
+  - apple
+  - microsoft
+  - netflix
+  - tesla
+  - nvidia
+  - salesforce
+  - oracle
+  - adobe
+  - intuit
+  - servicenow
+  - workday
+  - uber
+  - lyft
+  - airbnb
+  - pinterest
+  - twitter
+  - snapchat
+  - tiktok
+  - bytedance
+  - zoom
+  - slack
+  - atlassian
+  - github
+  - gitlab
+  - docker
+  - kubernetes
+  - red-hat
+  - vmware
+  - cisco
+  - dell
+  - hp
+  - ibm
+  - accenture
+  - deloitte
+  - pwc
+  - ey
+  - kpmg
+  - jpmorgan
+  - goldman-sachs
+  - morgan-stanley
+  - bank-of-america
+  - wells-fargo
+  - citigroup
+  - american-express
+  - visa
+  - mastercard
+  - paypal
+  - square
+  - shopify
+  - ebay
+  - etsy
+  - wayfair
+  - zillow
+  - redfin
+  - robinhood
+  - coinbase
+  - kraken
+  - binance
+  - ftx
+  - stripe
+  - plaid
+  - affirm
+  - klarna
+  - afterpay
+  - peloton
+  - mirror
+  - noom
+  - calm
+  - headspace
+  - duolingo
+  - coursera
+  - udemy
+  - skillshare
+  - masterclass
+  - khan-academy
 
 ashby:
   - Anthropic
@@ -83,3 +256,85 @@ ashby:
   - Embark
   - Kodiak
   - Gatik
+  - Google
+  - Amazon
+  - Meta
+  - Apple
+  - Microsoft
+  - Netflix
+  - Tesla
+  - Nvidia
+  - Salesforce
+  - Oracle
+  - Adobe
+  - Intuit
+  - ServiceNow
+  - Workday
+  - Palo Alto Networks
+  - CrowdStrike
+  - Zscaler
+  - Fortinet
+  - Checkpoint
+  - Rapid7
+  - Qualys
+  - Veracode
+  - Okta
+  - CyberArk
+  - Proofpoint
+  - FireEye
+  - Symantec
+  - McAfee
+  - Cisco
+  - VMware
+  - Dell
+  - HP
+  - IBM
+  - Accenture
+  - Deloitte
+  - PwC
+  - EY
+  - KPMG
+  - JPMorgan
+  - Goldman Sachs
+  - Morgan Stanley
+  - Bank of America
+  - Wells Fargo
+  - Citigroup
+  - American Express
+  - Visa
+  - Mastercard
+  - PayPal
+  - Square
+  - Shopify
+  - eBay
+  - Etsy
+  - Wayfair
+  - Zillow
+  - Redfin
+  - Robinhood
+  - Coinbase
+  - Stripe
+  - Plaid
+  - Affirm
+  - Klarna
+  - Peloton
+  - Zoom
+  - Slack
+  - Dropbox
+  - Box
+  - Atlassian
+  - GitHub
+  - GitLab
+  - Docker
+  - Red Hat
+  - MongoDB
+  - Elastic
+  - Databricks
+  - Snowflake
+  - Tableau
+  - Looker
+  - Palantir
+  - OpenAI
+  - Cohere
+  - Hugging Face
+  - Stability AI

@@ -1,124 +1,676 @@
 title,company,location,url,posted_date,provider,description,role_category,level
+Senior Staff Software Development Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4875832007,2025-10-15T20:23:42-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Infrastructure (All Levels) ",anthropic,"San Francisco, CA, New York City, NY, Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4632118008,2025-10-15T18:46:24-04:00,greenhouse,,SWE,Entry Level
+People Analytics Data Engineer,anthropic,"San Francisco, CA | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4956333008,2025-10-15T18:17:44-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7315291,2025-10-15T18:00:56-04:00,greenhouse,,SWE,Entry Level
+Staff Information Security Engineer (Vulnerability Management),zscaler,"Remote - D.C., USA",https://job-boards.greenhouse.io/zscaler/jobs/4937544007,2025-10-15T17:43:30-04:00,greenhouse,,SWE,Entry Level
 "Senior Associate, Insurance Claims",hellofresh,"Boulder, Colorado, United States; Irving, TX, United States; New York, NY, United States",https://careers.hellofresh.com/global/en/job/7257766?gh_jid=7257766,2025-10-15T17:21:52-04:00,greenhouse,,SWE,Junior
 "Senior Associate, Marketing Procurement",hellofresh,"New York, NY, United States",https://careers.hellofresh.com/global/en/job/7181118?gh_jid=7181118,2025-10-15T17:11:25-04:00,greenhouse,,SWE,Junior
+"Software Engineer, Credit Cards & Banking Platform",robinhood,"Menlo Park, CA; New York, NY",https://boards.greenhouse.io/robinhood/jobs/7026582?t=gh_src=&gh_jid=7026582,2025-10-15T17:03:55-04:00,greenhouse,,SWE,Entry Level
+"iOS Software Engineer, Guest & Host",airbnb,"Remote, USA",https://careers.airbnb.com/positions/7336167?gh_jid=7336167,2025-10-15T17:01:47-04:00,greenhouse,,SWE,Entry Level
+"Sr. Staff Technical Program Manager - Federal, Sovereign, and Platform Engineering Clouds",zscaler,"Bellevue, Washington, USA; San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4921573007,2025-10-15T16:45:30-04:00,greenhouse,,SWE,Entry Level
+ Senior Solutions Engineer - Auth0- Spanish speaking-Enterprise,okta,"Bellevue, Washington; Chicago, Illinois; Mexico City, Mexico; San Francisco, California; Washington, DC",https://www.okta.com/company/careers/opportunity/6838452?gh_jid=6838452,2025-10-15T15:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Safeguards",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4951844008,2025-10-15T15:48:59-04:00,greenhouse,,SWE,Entry Level
 "Staff Security Engineer, Red Team",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7335733,2025-10-15T15:38:33-04:00,greenhouse,,SWE,Entry Level
+Principal Software Engineer - Golang,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4863150007,2025-10-15T15:38:18-04:00,greenhouse,,SWE,Entry Level
 Senior Corporate Security Engineer,instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7335572,2025-10-15T15:34:12-04:00,greenhouse,,SWE,Entry Level
+"Principal Software Engineer - Java, Distributed Systems",zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4940497007,2025-10-15T15:33:46-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Link",stripe,USA,https://stripe.com/jobs/search?gh_jid=7316296,2025-10-15T15:31:07-04:00,greenhouse,,SWE,Entry Level
+Launch Integration Engineer,stripe,"Toronto, CA",https://stripe.com/jobs/search?gh_jid=7250097,2025-10-15T15:30:58-04:00,greenhouse,,SWE,Entry Level
 "Android Engineer, OS Platform",stripe,"San Francisco, Remote in US, Remote in Canada",https://stripe.com/jobs/search?gh_jid=7243475,2025-10-15T15:30:57-04:00,greenhouse,,SWE,Entry Level
 "Android Engineer, Terminal Commerce Experience",stripe,"Toronto, Remote in Canada",https://stripe.com/jobs/search?gh_jid=7243948,2025-10-15T15:30:57-04:00,greenhouse,,SWE,Entry Level
+Client Onboarding Engineer,stripe,"Toronto, CA",https://stripe.com/jobs/search?gh_jid=7227066,2025-10-15T15:30:55-04:00,greenhouse,,SWE,Entry Level
+"Machine Learning Engineer, Supportability",stripe,San Francisco or Seattle,https://stripe.com/jobs/search?gh_jid=7176812,2025-10-15T15:30:50-04:00,greenhouse,,SWE,Entry Level
+"Integration Engineer, Stablecoin",stripe,United States,https://stripe.com/jobs/search?gh_jid=7155907,2025-10-15T15:30:48-04:00,greenhouse,,SWE,Entry Level
+Broadcast Engineer,stripe,"San Francisco, CA ",https://stripe.com/jobs/search?gh_jid=6632309,2025-10-15T15:29:54-04:00,greenhouse,,SWE,Entry Level
+Staff Engineer - Testing & Automation,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4941347007,2025-10-15T15:24:41-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, ML/AI (Hybrid Role)",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7326924,2025-10-15T15:20:19-04:00,greenhouse,,SWE,Entry Level
+Commercial Strategy Associate - Early Careers (Fall 2025 Start),wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/7658870002?gh_jid=7658870002,2025-10-15T15:14:06-04:00,greenhouse,,SWE,New Grad
+Software Engineer,ripple,"New York, NY, United States",https://ripple.com/careers/all-jobs/job/7309457?gh_jid=7309457,2025-10-15T15:13:12-04:00,greenhouse,,SWE,Entry Level
+Industrial Engineer II,wayfair,"Cranbury, NJ",https://www.wayfair.com/careers/jobs/8213830002?gh_jid=8213830002,2025-10-15T15:06:47-04:00,greenhouse,,SWE,Entry Level
+Senior Android Tooling Engineer,lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8181311002?gh_jid=8181311002,2025-10-15T13:51:48-04:00,greenhouse,,SWE,Entry Level
+Android Tooling Engineer,lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8210177002?gh_jid=8210177002,2025-10-15T13:48:33-04:00,greenhouse,,SWE,Entry Level
+"Senior Solutions Engineer, Okta (Federal)",okta,"Washington, DC",https://www.okta.com/company/careers/opportunity/7291251?gh_jid=7291251,2025-10-15T13:44:03-04:00,greenhouse,,SWE,Entry Level
+"Senior Solutions Engineer, Auth0",okta,"Bellevue, Washington; Washington, DC",https://www.okta.com/company/careers/opportunity/7194304?gh_jid=7194304,2025-10-15T13:42:37-04:00,greenhouse,,SWE,Entry Level
 Investor Relations Associate II,pinterest,"San Francisco, CA, US",https://www.pinterestcareers.com/jobs/?gh_jid=7299282,2025-10-15T13:32:37-04:00,greenhouse,,SWE,Junior
+Senior iOS Tooling Engineer,lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8202599002?gh_jid=8202599002,2025-10-15T13:23:03-04:00,greenhouse,,SWE,Entry Level
+iOS Tooling Engineer,lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8210183002?gh_jid=8210183002,2025-10-15T13:15:04-04:00,greenhouse,,SWE,Entry Level
 Application Security Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7185996?gh_jid=7185996,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Design Engineer, Docs Platform",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7189431?gh_jid=7189431,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Hardware Systems Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7082275?gh_jid=7082275,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
 IAM Security Analyst,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6718525?gh_jid=6718525,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
 IAM Senior Manager,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7217638?gh_jid=7217638,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Infrastructure Support Engineer (NOC),cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7082206?gh_jid=7082206,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Network Deployment Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6887813?gh_jid=6887813,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Network Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7164656?gh_jid=7164656,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Network Software Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7268734?gh_jid=7268734,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Partner Solutions Engineer, EMEA",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7200947?gh_jid=7200947,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Partner Solutions Engineer, UK&I",cloudflare,Hybrid; In-Office,https://boards.greenhouse.io/cloudflare/jobs/7210482?gh_jid=7210482,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
 Security Researcher & Analyst - Application Security,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7016431?gh_jid=7016431,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - Cloudflare One,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7116731?gh_jid=7116731,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Level I
+Senior Software Engineer - Network Dev,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7167953?gh_jid=7167953,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Senior Systems Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6890014?gh_jid=6890014,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
 "Senior Threat Researcher, East Asia",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6827894?gh_jid=6827894,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Data Localization",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7132932?gh_jid=7132932,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Software Engineer - Growth Engineering,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6972995?gh_jid=6972995,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Software Engineering Manager, AI Agents",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7256632?gh_jid=7256632,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Software Engineer - Platforms & Productivity,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Software Engineer - Resiliency,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6980179?gh_jid=6980179,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, SONiC",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7068245?gh_jid=7068245,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Specialist Solutions Engineer - Platform,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6991269?gh_jid=6991269,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
 Sr Application Security Software Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7244991?gh_jid=7244991,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"System Engineer, Docs Platform",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7189387?gh_jid=7189387,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+"Systems Engineer, Edge",cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/7068271?gh_jid=7068271,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
+Technical Support Engineer,cloudflare,In-Office,https://boards.greenhouse.io/cloudflare/jobs/6994293?gh_jid=6994293,2025-10-15T13:09:23-04:00,greenhouse,,SWE,Entry Level
 "Senior Software Engineer, Core Identity (Auth0)",okta,"Chicago, Illinois; New York, New York; Washington, DC",https://www.okta.com/company/careers/opportunity/7302752?gh_jid=7302752,2025-10-15T12:22:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Tokenization",robinhood,"Menlo Park, CA; New York, NY",https://boards.greenhouse.io/robinhood/jobs/7066515?t=gh_src=&gh_jid=7066515,2025-10-15T11:59:07-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer II-  Frontend, Core Experience ",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=6907655,2025-10-15T11:38:28-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer II, Paid MarTech",instacart," Canada - Remote (ON, AB or BC Only)",https://instacart.careers/job/?gh_jid=6461659,2025-10-15T11:38:28-04:00,greenhouse,,SWE,Entry Level
+Software Engineer II,instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=6209738,2025-10-15T11:38:27-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Test",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8185940002?gh_jid=8185940002,2025-10-15T11:36:47-04:00,greenhouse,,SWE,Entry Level
+Senior Security Operations Analyst,monzo,"Cardiff, London or Remote (UK)",https://job-boards.greenhouse.io/monzo/jobs/7325562,2025-10-15T11:13:20-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, Content Recommendations ",pinterest,"Toronto, ON, CA; Remote, CA",https://www.pinterestcareers.com/jobs/?gh_jid=7261464,2025-10-15T11:01:06-04:00,greenhouse,,SWE,Entry Level
+"Sr. Staff Software Engineering, Ads Serving Infrastructure",pinterest,"San Francisco, CA , US; Palo Alto, CA, US; Seattle, WA;US; New York, NY, US",https://www.pinterestcareers.com/jobs/?gh_jid=7022246,2025-10-15T10:10:57-04:00,greenhouse,,SWE,Entry Level
 "Associate Director, Special Projects (Good Chop)",hellofresh,"New York, NY, United States",https://careers.hellofresh.com/global/en/job/7287938?gh_jid=7287938,2025-10-15T05:25:12-04:00,greenhouse,,SWE,Junior
 "Associate Manager, CRM",hellofresh,"New York, NY, United States",https://careers.hellofresh.com/global/en/job/7200457?gh_jid=7200457,2025-10-15T05:20:06-04:00,greenhouse,,SWE,Junior
+"Machine Learning Systems Engineer, RL Engineering",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4952051008,2025-10-14T20:44:37-04:00,greenhouse,,SWE,Entry Level
+"Machine Learning Systems Engineer, Research Tools",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4952079008,2025-10-14T20:43:41-04:00,greenhouse,,SWE,Entry Level
+Security Software Engineer: Detection Platform Infrastructure,anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4595463008,2025-10-14T20:33:08-04:00,greenhouse,,SWE,Entry Level
+Security Engineer: Detection and Response,anthropic,"San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC",https://job-boards.greenhouse.io/anthropic/jobs/4595465008,2025-10-14T20:32:36-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Business Technology ",anthropic,"Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4554982008,2025-10-14T20:31:49-04:00,greenhouse,,SWE,Entry Level
+"Product Engineer, Applied AI",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4461430008,2025-10-14T18:45:29-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Container & VM Security",anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4807626008,2025-10-14T18:32:10-04:00,greenhouse,,SWE,Entry Level
+Software Engineer II,bugcrowd,Remote - United States (Pacific Time Zone),https://boards.greenhouse.io/bugcrowd/jobs/7205747?gh_jid=7205747,2025-10-14T17:22:13-04:00,greenhouse,,SWE,Entry Level
 Operations Associate,lyft,"Chicago, IL",https://app.careerpuck.com/job-board/lyft/job/8183160002?gh_jid=8183160002,2025-10-14T17:11:02-04:00,greenhouse,,SWE,Junior
 "Customer Experience Associate, Pathways - New Graduates",robinhood,"Westlake, TX",https://boards.greenhouse.io/robinhood/jobs/7202639?t=gh_src=&gh_jid=7202639,2025-10-14T16:53:37-04:00,greenhouse,,SWE,New Grad
+"Privacy Research Engineer, Safeguards",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4949108008,2025-10-14T15:53:22-04:00,greenhouse,,SWE,Entry Level
+Senior Sales Engineer - New England ,zscaler,"Remote - Massachusetts, USA",https://job-boards.greenhouse.io/zscaler/jobs/4796687007,2025-10-14T15:52:27-04:00,greenhouse,,SWE,Entry Level
+Consumer Sales Associate,peloton,United States,https://careers.onepeloton.com/en/all-jobs/?gh_jid=7309089,2025-10-14T15:33:21-04:00,greenhouse,,SWE,Junior
+Senior Analytics Engineer,robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/6923373?t=gh_src=&gh_jid=6923373,2025-10-14T15:32:48-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Customer Onboarding Platform",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7172350?gh_jid=7172350,2025-10-14T15:02:35-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Onboarding",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/6938473?gh_jid=6938473,2025-10-14T15:01:53-04:00,greenhouse,,SWE,Entry Level
+Customer Success Engineer,algolia,Remote - United States,https://job-boards.greenhouse.io/algolia/jobs/5603210004,2025-10-14T14:45:26-04:00,greenhouse,,SWE,Entry Level
+"Director, Developer Marketing",algolia,Remote - United States,https://job-boards.greenhouse.io/algolia/jobs/5624732004,2025-10-14T14:45:26-04:00,greenhouse,,SWE,Entry Level
+Senior IT Application Engineer,algolia,Remote - United States,https://job-boards.greenhouse.io/algolia/jobs/5611589004,2025-10-14T14:45:26-04:00,greenhouse,,SWE,Entry Level
+"Staff Backend Software Engineer, Curation",pinterest,"San Francisco, CA, US; Palo Alto,Ca; Seattle,WA; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7179561,2025-10-14T14:28:23-04:00,greenhouse,,SWE,Entry Level
+Marketing Associate - Early Careers (Summer 2025 Starts),wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/7787791002?gh_jid=7787791002,2025-10-14T14:23:25-04:00,greenhouse,,SWE,New Grad
+"Staff Software Engineer, Databases",anthropic,"New York City, NY; San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4891180008,2025-10-14T12:54:51-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - Blockchain Platform (Wallets)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7326905?gh_jid=7326905,2025-10-14T12:43:59-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer II, Core Experience",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7171162,2025-10-14T12:41:55-04:00,greenhouse,,SWE,Entry Level
+"Associate, Creative Print Production",wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8210925002?gh_jid=8210925002,2025-10-14T12:41:39-04:00,greenhouse,,SWE,Junior
+Commercial Sales Engineer - Mountain West,zscaler,"Remote - Arizona, USA; Remote - Colorado, USA; Remote - Nevada, USA; Remote - Utah, USA",https://job-boards.greenhouse.io/zscaler/jobs/4684580007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+GRC Program Manager - Federal Compliance Programs,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4940338007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+"Manager, Detection Engineering",zscaler,Remote - USA,https://job-boards.greenhouse.io/zscaler/jobs/4919407007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+"Principal Site Reliability Engineer, ML Platform",zscaler,"Short Hills, New Jersey, USA",https://job-boards.greenhouse.io/zscaler/jobs/4930305007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Principal Software Development Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4841217007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Principal Software Development Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4700417007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Principal Software Development Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4919681007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Principal Software Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4777262007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+"Principal Software Engineer - Backend, API",zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4774957007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+"Principal Software Engineer - UI, React.js",zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4772834007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Principal Software Engineer (ZDX)- Mac/IOS,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4692613007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+"Sales Engineer, Enterprise - Heartlands",zscaler,"Remote - Wisconsin, USA",https://job-boards.greenhouse.io/zscaler/jobs/4925843007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Senior Atlassian Support Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4768453007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Senior Principal Software Development Engineer,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4841131007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+*Senior Sales Engineer ,zscaler,USA - Update Location,https://job-boards.greenhouse.io/zscaler/jobs/4871372007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Senior Sales Engineer - Major Accounts ,zscaler,"Remote - Minnesota, USA",https://job-boards.greenhouse.io/zscaler/jobs/4762079007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer (Ruby/Rails),zscaler,Remote - USA,https://job-boards.greenhouse.io/zscaler/jobs/4914000007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Software Engineer (Infrastructure),zscaler,Remote - USA,https://job-boards.greenhouse.io/zscaler/jobs/4942964007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Sr. Staff ML Engineer — Agentic AI & Digital Experience,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4620429007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Sr. Staff Software Development Engineer ,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4875980007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Sr. Staff Software Development Engineer ,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4875990007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Sr. Staff Software Engineer (MacOS & Networking),zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4768289007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Staff Site Reliability Engineer-Federal,zscaler,"Bellevue, Washington, USA",https://job-boards.greenhouse.io/zscaler/jobs/4827858007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Staff Site Reliability Engineer-Federal,zscaler,"San Jose, California, USA",https://job-boards.greenhouse.io/zscaler/jobs/4827853007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+"Staff Site Reliability Engineer-Federal, Security Clearance ",zscaler,"McLean, Virginia, USA; Remote - Virginia, USA",https://job-boards.greenhouse.io/zscaler/jobs/4924045007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer,zscaler,Remote - USA,https://job-boards.greenhouse.io/zscaler/jobs/4853605007,2025-10-14T12:39:20-04:00,greenhouse,,SWE,Entry Level
+Security GRC Specialist,anthropic,"Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4942646008,2025-10-14T12:05:39-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - DevX",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6981984?gh_jid=6981984,2025-10-14T10:32:06-04:00,greenhouse,,SWE,Entry Level
+Site Reliability Engineer - New York,dataiku,"United States, New York",https://job-boards.greenhouse.io/dataiku/jobs/5662216004,2025-10-14T03:04:55-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Blockchain AI)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7317987?gh_jid=7317987,2025-10-13T23:55:36-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Blockchain Platform (Blockchain Data Processing) ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7059330?gh_jid=7059330,2025-10-13T23:41:13-04:00,greenhouse,,SWE,Entry Level
+CX Analytics Engineer,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7323546?gh_jid=7323546,2025-10-13T19:02:21-04:00,greenhouse,,SWE,Entry Level
+Data Engineer,lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8164698002?gh_jid=8164698002,2025-10-13T17:20:12-04:00,greenhouse,,SWE,Entry Level
 "iOS Engineer, Mobile Foundations",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8181338002?gh_jid=8181338002,2025-10-13T17:12:24-04:00,greenhouse,,SWE,Entry Level
+Escalation Engineer,mongodb,New York City; United States,https://www.mongodb.com/careers/job/?gh_jid=7209916,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Forward Deployed Engineer, AI",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=7180116,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Group Product Manager, Growth & Developer Experience",mongodb,Austin; Chicago; Miami; New York City; Seattle; United States; Washington DC,https://www.mongodb.com/careers/job/?gh_jid=7158505,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Lead Engineer, Server Programmability",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=7201997,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
 "Product Security Engineer, Server",mongodb,New York City; United States,https://www.mongodb.com/careers/job/?gh_jid=7134662,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+Senior Consulting Engineer,mongodb,Atlanta; Boston; Charlotte; Florida; Michigan; New York; Texas; Tysons; Washington DC,https://www.mongodb.com/careers/job/?gh_jid=7178812,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Engineer, Storage Layer Services",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6477783,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior InfoSec Engineer, Red Team",mongodb,New York City; San Francisco; Seattle; United States,https://www.mongodb.com/careers/job/?gh_jid=7280331,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
 "Senior Product Security Engineer, Cloud",mongodb,New York City; Seattle; United States,https://www.mongodb.com/careers/job/?gh_jid=7216332,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
 "Senior Product Security Engineer, Server",mongodb,New York City; Seattle; United States,https://www.mongodb.com/careers/job/?gh_jid=7202684,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Site Reliability Engineer, Deployments",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6932221,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Site Reliability Engineer, Observability",mongodb,New York City; United States,https://www.mongodb.com/careers/job/?gh_jid=6711349,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Atlas Async Runtime",mongodb,New York City; Seattle; United States,https://www.mongodb.com/careers/job/?gh_jid=7120612,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Cloud Payments ",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6720794,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Developer Productivity",mongodb,Austin; New York City; United States,https://www.mongodb.com/careers/job/?gh_jid=7251403,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Documentation Platform",mongodb,New York City; United States,https://www.mongodb.com/careers/job/?gh_jid=7124550,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, MongoDB Server Clusters and Interfaces",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6749138,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Replicated Storage Services",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6688527,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Engineer, Cluster Scalability",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6394590,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Engineer, Server Networking & Observability",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6713492,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Engineer, Cluster to Cluster",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=7243944,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Site Reliability Engineer, Fabric",mongodb,Austin; Boston; Los Angeles; New York City; Raleigh; San Francisco; United States,https://www.mongodb.com/careers/job/?gh_jid=6987333,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Site Reliability Engineer, Infrastructure Security",mongodb,Austin; New York City; San Francisco; Seattle; United States,https://www.mongodb.com/careers/job/?gh_jid=6601882,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Networking & Observability",mongodb,Seattle; United States,https://www.mongodb.com/careers/job/?gh_jid=7264736,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Query",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=7221902,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Server Security",mongodb,United States,https://www.mongodb.com/careers/job/?gh_jid=6515209,2025-10-13T17:07:31-04:00,greenhouse,,SWE,Entry Level
 "Associate Principal, CBO",airbnb,United States,https://careers.airbnb.com/positions/7322149?gh_jid=7322149,2025-10-13T17:03:35-04:00,greenhouse,,SWE,Junior
+"Senior Staff Machine Learning Engineer, Relevance and Personalization",airbnb,United States,https://careers.airbnb.com/positions/6237467?gh_jid=6237467,2025-10-13T16:22:16-04:00,greenhouse,,SWE,Entry Level
+"Senior Machine Learning Engineer, Relevance and Personalization",airbnb,United States,https://careers.airbnb.com/positions/7258033?gh_jid=7258033,2025-10-13T16:15:52-04:00,greenhouse,,SWE,Entry Level
+Sr. Delivery Solutions Engineer - Digital Native Business,databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8158616002,2025-10-13T15:51:39-04:00,greenhouse,,SWE,Entry Level
+"Manager, Software Engineering, Platform",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7314828?gh_jid=7314828,2025-10-13T14:12:16-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Networking",anthropic,"Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4951364008,2025-10-13T13:43:28-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Inference",anthropic,"New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4951696008,2025-10-13T13:25:48-04:00,greenhouse,,SWE,Entry Level
 Android Engineer,robinhood,"New York, NY",https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 "Engineering Manager, Offensive Security & Vulnerability Management",robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7003656?t=gh_src=&gh_jid=7003656,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 "Full Stack iOS Engineer, Credit Cards & Banking",robinhood,"Bellevue, WA; Menlo Park, CA; New York, NY",https://boards.greenhouse.io/robinhood/jobs/7026567?t=gh_src=&gh_jid=7026567,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 iOS Engineer,robinhood,"Menlo Park, CA; New York, NY",https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 Senior Blockchain Security Engineer,robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7252911?t=gh_src=&gh_jid=7252911,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 Senior Cloud Security Engineer,robinhood,"Bellevue, WA",https://boards.greenhouse.io/robinhood/jobs/7178427?t=gh_src=&gh_jid=7178427,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+Senior Data Engineer,robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/4738660?t=gh_src=&gh_jid=4738660,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Senior Machine Learning Engineer, Agentic",robinhood,"Bellevue, WA; Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7121213?t=gh_src=&gh_jid=7121213,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 Senior Offensive Security Engineer,robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7279870?t=gh_src=&gh_jid=7279870,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+Senior QA Engineer,robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7259131?t=gh_src=&gh_jid=7259131,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Reliability",robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7100440?t=gh_src=&gh_jid=7100440,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 Social Designated Principal,robinhood,"Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",https://boards.greenhouse.io/robinhood/jobs/7255779?t=gh_src=&gh_jid=7255779,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
 "Staff iOS Engineer, Agentic Applications",robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7078960?t=gh_src=&gh_jid=7078960,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+Staff Quality Engineer,robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7250116?t=gh_src=&gh_jid=7250116,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Credit Cards & Banking Infrastructure",robinhood,"Menlo Park, CA; New York, NY",https://boards.greenhouse.io/robinhood/jobs/7170015?t=gh_src=&gh_jid=7170015,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Crypto",robinhood,"New York, NY",https://boards.greenhouse.io/robinhood/jobs/7169957?t=gh_src=&gh_jid=7169957,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Reliability",robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7132630?t=gh_src=&gh_jid=7132630,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Support Experience",robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7272881?t=gh_src=&gh_jid=7272881,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Staff Web Engineer, Robinhood Legend",robinhood,"Menlo Park, CA",https://boards.greenhouse.io/robinhood/jobs/7086141?t=gh_src=&gh_jid=7086141,2025-10-13T13:21:53-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, AI Translation ",airbnb,United States,https://careers.airbnb.com/positions/6838683?gh_jid=6838683,2025-10-13T13:15:31-04:00,greenhouse,,SWE,Entry Level
 Head of Social Media Support - Remote in US,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7283245?gh_jid=7283245,2025-10-13T13:15:02-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Fullstack (Developer - Onramp)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7306982?gh_jid=7306982,2025-10-13T12:51:33-04:00,greenhouse,,SWE,Entry Level
+Customer & Supplier Experience Associate - Early Careers (Fall 2025 start),wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8091440002?gh_jid=8091440002,2025-10-13T09:17:00-04:00,greenhouse,,SWE,New Grad
+" Research Engineer / Research Scientist, Tokens",anthropic,"New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4951814008,2025-10-12T20:15:56-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - Blockchain Platform (Blockchain Enablement)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7233872?gh_jid=7233872,2025-10-12T10:30:01-04:00,greenhouse,,SWE,Entry Level
 Associate Maintenance Manager,hellofresh,"Newark, NJ, United States",https://careers.hellofresh.com/global/en/job/7295478?gh_jid=7295478,2025-10-12T03:02:59-04:00,greenhouse,,SWE,Junior
+"Principal Machine Learning Engineer, Monetization",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6697884,2025-10-11T03:31:24-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Biology & Life Sciences",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4951960008,2025-10-10T20:14:35-04:00,greenhouse,,SWE,Entry Level
+Senior Data Platform Engineer,dataiku,"United Kingdom, London; United Kingdom, Remote; United States, New York; United States, Remote",https://job-boards.greenhouse.io/dataiku/jobs/5651304004,2025-10-10T18:41:05-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Experimentation Data",airbnb,Remote USA,https://careers.airbnb.com/positions/7306868?gh_jid=7306868,2025-10-10T17:17:02-04:00,greenhouse,,SWE,Entry Level
 Operations Associate,lyft,"Irving, TX",https://app.careerpuck.com/job-board/lyft/job/8203615002?gh_jid=8203615002,2025-10-10T15:21:32-04:00,greenhouse,,SWE,Junior
 Operations Associate,lyft,"Milwaukee, WI",https://app.careerpuck.com/job-board/lyft/job/8199725002?gh_jid=8199725002,2025-10-10T15:19:57-04:00,greenhouse,,SWE,Junior
+"Senior Software Engineer, Fullstack (Developer - Stablecoin Payments)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7306954?gh_jid=7306954,2025-10-10T14:30:31-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Claude Developer Product (Several Teams Hiring)",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4561282008,2025-10-10T14:13:42-04:00,greenhouse,,SWE,Entry Level
+"Engineering Manager, Claude Developer Product (Several Teams Hiring)",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4721383008,2025-10-10T14:12:29-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Fulfillment",lyft,"New York, NY",https://app.careerpuck.com/job-board/lyft/job/8173374002?gh_jid=8173374002,2025-10-10T13:33:54-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Security",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924,2025-10-10T12:57:51-04:00,greenhouse,,SWE,Entry Level
+Elasticsearch - Principal Software Engineer - Vector Search,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7314526&gh_jid=7314526,2025-10-10T11:54:11-04:00,greenhouse,,SWE,Entry Level
+Elasticsearch - Principal Software Engineer - Search Algorithms,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7314504&gh_jid=7314504,2025-10-10T11:54:09-04:00,greenhouse,,SWE,Entry Level
+Senior Mechanical Test Engineer,peloton,United States,https://careers.onepeloton.com/en/all-jobs/?gh_jid=7170859,2025-10-10T11:47:16-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, C++",ripple,"New York, NY, United States",https://ripple.com/careers/all-jobs/job/6437479?gh_jid=6437479,2025-10-09T21:20:10-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Lyft Business",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8141328002?gh_jid=8141328002,2025-10-09T19:45:27-04:00,greenhouse,,SWE,Entry Level
+Software Engineer - Databases,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4949559008?gh_jid=4949559008,2025-10-09T17:55:17-04:00,greenhouse,,SWE,Entry Level
 Datadog for Startups Associate,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7307667/?gh_jid=7307667,2025-10-09T15:58:47-04:00,greenhouse,,SWE,Junior
 Sanitation Associate ,hellofresh,"Newark, NJ, United States",https://careers.hellofresh.com/global/en/job/7071426?gh_jid=7071426,2025-10-09T15:45:44-04:00,greenhouse,,SWE,Junior
+"Software Engineer, Machine Learning Platform Engineer (Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7311430?gh_jid=7311430,2025-10-09T15:43:34-04:00,greenhouse,,SWE,Entry Level
+"Senior Machine Learning Engineer II, Marketing",instacart,USA - Remote,https://instacart.careers/job/?gh_jid=6805122,2025-10-09T15:28:19-04:00,greenhouse,,SWE,Entry Level
+"Senior Machine Learning Engineer II, Marketing",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7311358,2025-10-09T15:11:15-04:00,greenhouse,,SWE,Entry Level
+Salesforce Engineer,lyft,"Seattle, WA",https://app.careerpuck.com/job-board/lyft/job/8178382002?gh_jid=8178382002,2025-10-09T14:51:17-04:00,greenhouse,,SWE,Entry Level
+	PhD University Grad Machine Learning Engineer 2026 (USA),pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=7252807,2025-10-09T14:49:56-04:00,greenhouse,,SWE,Entry Level
+"Machine Learning Engineer, Safeguards",anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4949336008,2025-10-09T14:32:16-04:00,greenhouse,,SWE,Entry Level
+Manager of Associate Solutions Architects,anthropic,"New York City, NY; San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4947472008,2025-10-09T14:29:50-04:00,greenhouse,,SWE,Junior
+"Senior Staff Software Engineer, Backend (Consumer - Financial Services and Loyalty)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7260606?gh_jid=7260606,2025-10-09T13:22:12-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer II, Frontend Platform",wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8202266002?gh_jid=8202266002,2025-10-09T13:07:09-04:00,greenhouse,,SWE,Entry Level
+"Security Engineer, Operating Systems",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4929693008,2025-10-09T12:01:04-04:00,greenhouse,,SWE,Entry Level
+"Security Engineer, Systems Integrity ",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4929689008,2025-10-09T12:00:33-04:00,greenhouse,,SWE,Entry Level
+EU Payroll Associate,monzo,"Cardiff, London or Remote (UK)",https://job-boards.greenhouse.io/monzo/jobs/7303669,2025-10-09T11:18:22-04:00,greenhouse,,SWE,Junior
 Engineering Manager I - Threat Intelligence Research,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7181025/?gh_jid=7181025,2025-10-09T10:44:09-04:00,greenhouse,,SWE,Level I
 "Associate Principal, Marketing Strategic Finance & Analytics",airbnb,United States ,https://careers.airbnb.com/positions/7155307?gh_jid=7155307,2025-10-09T10:24:38-04:00,greenhouse,,SWE,Junior
+"Software Engineer, Security Cloud Expansion",stripe,IN-Bengaluru,https://stripe.com/jobs/search?gh_jid=7174299,2025-10-09T03:42:44-04:00,greenhouse,,SWE,Entry Level
 Product Security Engineer,databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002,2025-10-09T00:36:02-04:00,greenhouse,,SWE,Entry Level
 "Senior Security Engineer, Red Team ",databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=7909795002,2025-10-09T00:35:55-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Security Foundations (Networking Infrastructure Projects)",lyft,"Seattle, WA",https://app.careerpuck.com/job-board/lyft/job/7836506002?gh_jid=7836506002,2025-10-08T20:49:26-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Security Foundations (Networking Infrastructure Projects)",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/7806017002?gh_jid=7806017002,2025-10-08T20:49:13-04:00,greenhouse,,SWE,Entry Level
+"QA Engineer, Marketing Enablement & Technology",instacart, USA or Canada - Remote,https://instacart.careers/job/?gh_jid=7306720,2025-10-08T18:10:54-04:00,greenhouse,,SWE,Entry Level
 "Associate Maintenance Manager, Nights",hellofresh,"Aurora, IL, United States",https://careers.hellofresh.com/global/en/job/7239081?gh_jid=7239081,2025-10-08T17:24:41-04:00,greenhouse,,SWE,Junior
 "Associate Maintenance Manager, Nights",hellofresh,"Aurora, IL, United States",https://careers.hellofresh.com/global/en/job/7246525?gh_jid=7246525,2025-10-08T17:23:13-04:00,greenhouse,,SWE,Junior
+Software Engineer - Developer Platform,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4948149008?gh_jid=4948149008,2025-10-08T17:11:14-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Accelerator Build Infrastructure",anthropic,"San Francisco, CA | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4943668008,2025-10-08T17:08:49-04:00,greenhouse,,SWE,Entry Level
+Security Risk Analyst,anthropic,"Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4515484008,2025-10-08T17:02:46-04:00,greenhouse,,SWE,Entry Level
 "Manager I, Engineering - Cloud SIEM - Security Data Enrichment",datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7308805/?gh_jid=7308805,2025-10-08T14:35:39-04:00,greenhouse,,SWE,Entry Level
 Application Security Engineer,airbnb,United States,https://careers.airbnb.com/positions/7178910?gh_jid=7178910,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 Associate Paralegal,airbnb,"San Francisco, United States ",https://careers.airbnb.com/positions/7251401?gh_jid=7251401,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Junior
 "Product Manager, LATAM (Miami or San Francisco)",airbnb,"Miami, United States, San Francisco, United States",https://careers.airbnb.com/positions/7144534?gh_jid=7144534,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Business Solutions Engineer, BizTech",airbnb,United States,https://careers.airbnb.com/positions/7306160?gh_jid=7306160,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 Senior Fullstack Engineer Community Support Engineering,airbnb,"Remote, USA ",https://careers.airbnb.com/positions/6856155?gh_jid=6856155,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 Senior Insider Threat Investigations,airbnb,"Remote, United States ",https://careers.airbnb.com/positions/7237052?gh_jid=7237052,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Manager, Software Engineering - Security",airbnb,Remote - USA,https://careers.airbnb.com/positions/6752751?gh_jid=6752751,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 "Senior Security Engineer, Threat Detection & Response",airbnb,United States,https://careers.airbnb.com/positions/7134785?gh_jid=7134785,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Android Platform",airbnb,Remote - USA,https://careers.airbnb.com/positions/7233106?gh_jid=7233106,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Host Pricing & Settings",airbnb,Remote USA,https://careers.airbnb.com/positions/6718415?gh_jid=6718415,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Engineer - Cloud Infrastructure (Compute),airbnb,Remote - USA,https://careers.airbnb.com/positions/7276961?gh_jid=7276961,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Machine Learning Engineer - AI Safety and Guardrail ,airbnb,United States,https://careers.airbnb.com/positions/7159569?gh_jid=7159569,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Machine Learning Engineer, Communication & Connectivity",airbnb,Remote - USA,https://careers.airbnb.com/positions/7005605?gh_jid=7005605,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Machine Learning Engineer, Community Support Engineering",airbnb,United States,https://careers.airbnb.com/positions/6757302?gh_jid=6757302,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Machine Learning Engineer – GenAI,airbnb,United States,https://careers.airbnb.com/positions/7028263?gh_jid=7028263,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Machine Learning Engineer - Guest & Host,airbnb,United States,https://careers.airbnb.com/positions/6817373?gh_jid=6817373,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 "Staff iOS Engineer, Client Products & Emerging Tech",airbnb,"Remote, USA",https://careers.airbnb.com/positions/7277871?gh_jid=7277871,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 "Staff iOS Engineer, Guest & Host",airbnb,Remote United States,https://careers.airbnb.com/positions/6854729?gh_jid=6854729,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+Staff Machine Learning Engineer - Community Support Engineering,airbnb,Remote - USA,https://careers.airbnb.com/positions/7116975?gh_jid=7116975,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, Payments",airbnb,United States,https://careers.airbnb.com/positions/7121624?gh_jid=7121624,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 "Staff Security Engineer, Data Security",airbnb,United States,https://careers.airbnb.com/positions/7158734?gh_jid=7158734,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Android Platform",airbnb,Remote - USA,https://careers.airbnb.com/positions/7235415?gh_jid=7235415,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Growth Platform",airbnb,"Remote, USA ",https://careers.airbnb.com/positions/6886222?gh_jid=6886222,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Guest & Host - Pricing Guidance Team",airbnb,"Remote, USA",https://careers.airbnb.com/positions/6741839?gh_jid=6741839,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Integrated Knowledge Management (RAG)",airbnb,Remote - USA,https://careers.airbnb.com/positions/6871719?gh_jid=6871719,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Performance ",airbnb,Remote - USA,https://careers.airbnb.com/positions/6996864?gh_jid=6996864,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Trust",airbnb,"Remote, USA ",https://careers.airbnb.com/positions/7116604?gh_jid=7116604,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
 "Technical Staff Program Manager, Security (Identity Access Management)",airbnb,United States,https://careers.airbnb.com/positions/6752810?gh_jid=6752810,2025-10-08T14:08:45-04:00,greenhouse,,SWE,Entry Level
-Product Security Engineer,airtable,"San Francisco, CA",https://job-boards.greenhouse.io/airtable/jobs/8194662002,2025-10-07T16:08:06-04:00,greenhouse,,SWE,Entry Level
+Staff Machine Learning Engineer - Responsible AI,pinterest,"Palo Alto, CA, US; San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6371685,2025-10-08T13:30:29-04:00,greenhouse,,SWE,Entry Level
+AI Platform Security Engineer,anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4942002008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Android Engineer, Product ",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4899511008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Application Security Engineer,anthropic,"Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4502508008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Application Security Engineering Manager,anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4562813008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Capacity Engineer, Compute",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4801218008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Detection and Response Engineering Manager,anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4806060008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Engineering Manager, Cloud Security",anthropic,"San Francisco, CA | Seattle, WA; Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4897424008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"[Expression of Interest] Research Engineer, Reward Models",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4613599008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4520279008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"[Expression of Interest] Research Scientist/Engineer, Honesty",anthropic,"New York City, NY; San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4532887008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Finance Systems Engineer,anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4825724008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Head of Developer Relations,anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4781798008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"iOS Engineer, Product",anthropic,"San Francisco, CA, New York City, NY, Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4572744008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+IT Engineering - Audiovisual Engineer,anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4926492008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+IT Engineering - Corporate Network Engineer,anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4879674008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+IT Support Engineer,anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4802076008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+MCP Engineer,anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4920215008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"ML Infrastructure Engineer, Safeguards",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4778843008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Performance Engineer,anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4020350008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Performance Engineer - GPU,anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4926227008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Principal Capacity Engineer, Compute",anthropic,"San Francisco, CA | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4904775008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer, Interpretability",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4020305008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer, Machine Learning (Horizons) ",anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4613568008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer, Model Performance & Quality",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4825872008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer, Pre-training",anthropic,"Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4616971008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer, Pretraining Scaling",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4938432008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer, Production Model Post Training",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4613592008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer / Research Scientist, Biology & Life Sciences",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4924308008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer / Scientist, Alignment Science",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4631822008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Research Engineer / Scientist, Model Welfare",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4812169008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Security Software Engineer: Detection Platform (Insider Risk),anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4740845008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+Senior Software Security Engineer,anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4887959008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Beneficial Deployments ",anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4942024008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Claude Code",anthropic,"San Francisco, CA | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4816199008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Data Intelligence",anthropic,"New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4797724008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Enterprise",anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4667572008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Frontier Prototyping",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4942092008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Languages",anthropic,"New York City, NY; San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4935567008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, ML Networking",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4926242008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Public Sector",anthropic,"San Francisco, CA | New York City, NY | Washington, DC",https://job-boards.greenhouse.io/anthropic/jobs/4902636008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Verticals (Healthcare & Financial Services)",anthropic,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4941996008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Staff Infrastructure Engineer, Discovery Team",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4669581008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Staff Research Engineer, Discovery Team",anthropic,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4593216008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Technical Documentation & Content Engineer, Claude Code",anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4829381008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+TPU Kernel Engineer,anthropic,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4720576008,2025-10-08T12:53:11-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Developer - x402)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7306942?gh_jid=7306942,2025-10-07T19:16:49-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Developer - Foundations)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7306817?gh_jid=7306817,2025-10-07T18:09:41-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Capacity Engineering",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7167271,2025-10-07T16:59:30-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - KV Platform,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7306429/?gh_jid=7306429,2025-10-07T16:14:50-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - Workflow Engine,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7291513/?gh_jid=7291513,2025-10-07T16:14:03-04:00,greenhouse,,SWE,Entry Level
 "Manager I, Engineering - Bits AI Security Analyst",datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7306395/?gh_jid=7306395,2025-10-07T15:33:00-04:00,greenhouse,,SWE,Entry Level
+"Integration Reliability Engineer, Technical Operations, Local Payment Methods",stripe,"Toronto, Remote in Canada",https://stripe.com/jobs/search?gh_jid=7286378,2025-10-07T15:17:13-04:00,greenhouse,,SWE,Entry Level
+HRIS Senior Configuration Engineer,wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8080479002?gh_jid=8080479002,2025-10-07T14:27:15-04:00,greenhouse,,SWE,Entry Level
+InfoSec -Principal Information Security Architect,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7201358&gh_jid=7201358,2025-10-07T13:19:40-04:00,greenhouse,,SWE,Entry Level
+TMS Compliance Analyst III,coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6675542?gh_jid=6675542,2025-10-07T12:39:31-04:00,greenhouse,,SWE,Entry Level
 Senior Application Security Engineer,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/6668150/?gh_jid=6668150,2025-10-07T11:34:28-04:00,greenhouse,,SWE,Entry Level
 "Senior Software Engineer, Frontend - Identity",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948976?gh_jid=5948976,2025-10-07T10:56:20-04:00,greenhouse,,SWE,Entry Level
 GTM Strategy & Operations Associate,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7292866/?gh_jid=7292866,2025-10-07T09:59:43-04:00,greenhouse,,SWE,Junior
+Staff Software Engineer (Developer Experience),omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/6712826,2025-10-06T18:46:04-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Software Engineer, Backend (Platform - Risk)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654,2025-10-06T17:18:24-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Software Engineer, Backend (Platform - FinHub)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609,2025-10-06T17:17:53-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Software Engineer, Developer Platform",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/6602842?gh_jid=6602842,2025-10-06T16:25:46-04:00,greenhouse,,SWE,Entry Level
 "Senior Associate, Strategy & Bizops (Product Analytics)",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=6433621,2025-10-06T15:39:32-04:00,greenhouse,,SWE,Junior
 Senior Security Engineer - Threat Detection Engineering,datadog,"Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7300644/?gh_jid=7300644,2025-10-06T15:31:41-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Fulfillment",lyft,"Seattle, WA",https://app.careerpuck.com/job-board/lyft/job/8173385002?gh_jid=8173385002,2025-10-06T14:45:14-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Fulfillment",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8173314002?gh_jid=8173314002,2025-10-06T14:45:14-04:00,greenhouse,,SWE,Entry Level
+Director of Security Engineering,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7258869?gh_jid=7258869,2025-10-06T14:21:06-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Financial Crimes Engineering",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7258836?gh_jid=7258836,2025-10-06T14:21:03-04:00,greenhouse,,SWE,Entry Level
 "Senior Engineering Manager, Identity Platform",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7195532?gh_jid=7195532,2025-10-06T14:20:35-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7183888?gh_jid=7183888,2025-10-06T14:20:25-04:00,greenhouse,,SWE,Entry Level
 "Staff Security Engineer, Secure Digital Asset Operations",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7170759?gh_jid=7170759,2025-10-06T14:20:18-04:00,greenhouse,,SWE,Entry Level
+Senior Manager - Salesforce Developer,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7138108?gh_jid=7138108,2025-10-06T14:20:08-04:00,greenhouse,,SWE,Entry Level
+Senior Regulatory Compliance Analyst,ripple,"New York, NY, United States",https://ripple.com/careers/all-jobs/job/7084128?gh_jid=7084128,2025-10-06T14:19:40-04:00,greenhouse,,SWE,Entry Level
+Senior Regulatory Compliance Analyst,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7084116?gh_jid=7084116,2025-10-06T14:19:40-04:00,greenhouse,,SWE,Entry Level
+"Director, Developer Relations",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7072348?gh_jid=7072348,2025-10-06T14:19:35-04:00,greenhouse,,SWE,Entry Level
+Director of Developer Relations,ripple,"New York, NY, United States",https://ripple.com/careers/all-jobs/job/7072360?gh_jid=7072360,2025-10-06T14:19:35-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Developer Growth and Experience (RippleX)",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7078909?gh_jid=7078909,2025-10-06T14:19:33-04:00,greenhouse,,SWE,Entry Level
+Principal Developer Relations ,ripple,"New York, NY, United States",https://ripple.com/careers/all-jobs/job/7072398?gh_jid=7072398,2025-10-06T14:19:26-04:00,greenhouse,,SWE,Entry Level
+Principal Developer Relations ,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7072386?gh_jid=7072386,2025-10-06T14:19:26-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/7001478?gh_jid=7001478,2025-10-06T14:18:52-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/6996920?gh_jid=6996920,2025-10-06T14:18:48-04:00,greenhouse,,SWE,Entry Level
+"Sr. Director, Data Engineering & Services",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/6940923?gh_jid=6940923,2025-10-06T14:18:34-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Platform",ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/6938506?gh_jid=6938506,2025-10-06T14:18:27-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer,ripple,"San Francisco, CA, United States",https://ripple.com/careers/all-jobs/job/6648042?gh_jid=6648042,2025-10-06T14:17:44-04:00,greenhouse,,SWE,Entry Level
+Director of Security Operations,ripple,"New York, NY, United States",https://ripple.com/careers/all-jobs/job/6142672?gh_jid=6142672,2025-10-06T14:17:31-04:00,greenhouse,,SWE,Entry Level
+Senior Security Sales Engineer,datadog,"California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",https://careers.datadoghq.com/detail/7297482/?gh_jid=7297482,2025-10-06T14:09:19-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Data Movement",stripe,"Seattle, US Remote, NYC ",https://stripe.com/jobs/search?gh_jid=6345510,2025-10-06T13:23:20-04:00,greenhouse,,SWE,Entry Level
 GTM Strategy and Operations Associate,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7172130/?gh_jid=7172130,2025-10-06T12:17:13-04:00,greenhouse,,SWE,Junior
-"Senior Associate, Axios Live Partnerships",axios,Remote (DC or NYC Preferred),https://job-boards.greenhouse.io/axios/jobs/7287784,2025-10-06T11:13:51-04:00,greenhouse,,SWE,Junior
+"Senior Software Engineer, Commerce Platform",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7300671,2025-10-06T10:33:51-04:00,greenhouse,,SWE,Entry Level
 Sales Associate,instacart,Chicago OR Denver - Remote,https://instacart.careers/job/?gh_jid=7052991,2025-10-03T18:58:30-04:00,greenhouse,,SWE,Junior
 "Staff Identity Security Engineer, Identity Governance and Administration ",okta,"Bellevue, Washington; Washington, DC",https://www.okta.com/company/careers/opportunity/7256951?gh_jid=7256951,2025-10-03T15:25:49-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Platform - Core Automation)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948877?gh_jid=5948877,2025-10-03T14:50:18-04:00,greenhouse,,SWE,Entry Level
+AI Engineer - FDE (Forward Deployed Engineer),databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002,2025-10-03T13:51:35-04:00,greenhouse,,SWE,Entry Level
+"Senior Sales Engineer, LATAM",dataiku,"United States, Remote",https://job-boards.greenhouse.io/dataiku/jobs/5662394004,2025-10-03T13:09:53-04:00,greenhouse,,SWE,Entry Level
+"Associate Director, Middle Mile Site Leader",wayfair,"South Elgin, IL",https://www.wayfair.com/careers/jobs/8186032002?gh_jid=8186032002,2025-10-03T10:36:53-04:00,greenhouse,,SWE,Junior
+"Software Engineer II, Backend (Money Movement)",affirm,"Chicago, Illinois, United States",https://job-boards.greenhouse.io/affirm/jobs/7443040003,2025-10-03T10:26:41-04:00,greenhouse,,SWE,Entry Level
+Mid-Market Sales Engineer (Boston),datadog,"Boston, Massachusetts, USA",https://careers.datadoghq.com/detail/7283437/?gh_jid=7283437,2025-10-03T09:42:26-04:00,greenhouse,,SWE,Entry Level
+"Staff Engineer, Experimental Projects",stripe,US-Remote,https://stripe.com/jobs/search?gh_jid=7280343,2025-10-03T08:40:33-04:00,greenhouse,,SWE,Entry Level
 "Business Operations Senior Associate / Manager, Platform",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7087061?gh_jid=7087061,2025-10-02T18:12:31-04:00,greenhouse,,SWE,Junior
+Full Time Sales Associate with Design Expertise - AllModern (A Wayfair Specialty Brand),wayfair,"Lynnfield, MA",https://www.wayfair.com/careers/jobs/8106297002?gh_jid=8106297002,2025-10-02T16:07:19-04:00,greenhouse,,SWE,Junior
+iOS Mobile Software Engineer,wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8149141002?gh_jid=8149141002,2025-10-02T15:28:12-04:00,greenhouse,,SWE,Entry Level
+Senior CX Analytics Engineer,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6258857?gh_jid=6258857,2025-10-02T14:27:57-04:00,greenhouse,,SWE,Entry Level
 "Senior Software Engineer, Core Identity (Auth0)",okta,"Chicago, Illinois; New York, New York; Washington, DC",https://www.okta.com/company/careers/opportunity/7229375?gh_jid=7229375,2025-10-02T14:10:40-04:00,greenhouse,,SWE,Entry Level
 Customer Success Associate - Portuguese or Spanish Speaking,datadog,"Boston, Massachusetts, USA",https://careers.datadoghq.com/detail/7255675/?gh_jid=7255675,2025-10-02T14:07:56-04:00,greenhouse,,SWE,Junior
+"Senior Software Engineer, Commerce Platform (Fullstack)",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7171158,2025-10-02T13:53:27-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer II, Storage",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7171170,2025-10-02T13:53:27-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Commerce Platform",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7171033,2025-10-02T13:53:26-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer II, Fulfillment",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7170982,2025-10-02T13:53:26-04:00,greenhouse,,SWE,Entry Level
+TV React Developer (Roku),philo,"San Francisco, CA, Cambridge, MA, or remote",https://job-boards.greenhouse.io/philo/jobs/7253419,2025-10-02T13:20:37-04:00,greenhouse,,SWE,Entry Level
+QA Engineer - Automation Specialist,philo,"San Francisco, CA",https://job-boards.greenhouse.io/philo/jobs/7260438,2025-10-02T13:18:07-04:00,greenhouse,,SWE,Entry Level
+Sr. Machine Learning Engineer (Recommendation Systems),philo,"San Francisco, CA",https://job-boards.greenhouse.io/philo/jobs/7259010,2025-10-02T13:17:07-04:00,greenhouse,,SWE,Entry Level
+Sr. Full Stack Software Engineer - Product Engineering,betterment,"New York, NY",https://www.betterment.com/careers/current-openings/job?gh_jid=7184616&gh_jid=7184616,2025-10-02T12:26:44-04:00,greenhouse,,SWE,Entry Level
 "Director, Engineering, Identity & Product Safety",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7181171,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Machine Learning Engineer, Core Engineering",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6121450,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Machine Learning Engineer, Monetization Engineering",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6121543,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Manager II, Machine Learning Engineering, Ads Intelligence",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6686563,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Manager II, Machine Learning Engineering - Ads Marketplace",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6482873,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Manager II, Machine Learning Engineering, Ads Signals",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6617083,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Manager II, Machine Learning Engineering, Core Engineering ",pinterest,"San Francisco, CA, US;  Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7075176,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Principal Engineer, Ads Measurement",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6708202,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Principal Machine Learning Engineer, Ads Delivery",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6963868,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Principal Machine Learning Engineer, Trust & Safety ",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=5036093,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
 "Product Designer II, Social Experiences",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7063187,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer II, Android",pinterest,"Toronto, ON, CA",https://www.pinterestcareers.com/jobs/?gh_jid=7166348,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr Machine Learning Engineer, Applied Research Science ",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6121464,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Machine Learning Engineer, Computer Vision",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6894747,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Machine Learning Engineer/Economist, Ads Marketplace",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=7195341,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Machine Learning Engineer, Monetization Engineering",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6121551,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr Staff Machine Learning Engineer, Closeup Relevance ",pinterest,"Palo Alto, CA; Seattle, WA US",https://www.pinterestcareers.com/jobs/?gh_jid=6482944,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Staff Machine Learning Engineer, Homefeed",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6908633,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Staff Machine Learning Engineer, Search",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6992375,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Staff Software Engineer, Conversion Visibility",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6963813,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Sr. Staff Software Engineer, Core Retrieval Infrastructure",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US ",https://www.pinterestcareers.com/jobs/?gh_jid=6867844,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, Ads Delivery",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6482871,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, Ads Late Funnel",pinterest,"San Francisco, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=7012050,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+Staff Machine Learning Engineer - Ads Modules,pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6708191,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, Monetization",pinterest,"San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",https://www.pinterestcareers.com/jobs/?gh_jid=6133257,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Machine Learning Engineer, Search",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6708115,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Batch Processing Platform",pinterest,"Seattle, WA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=7239289,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Core Serving Infra",pinterest,"San Francisco, CA, US; Remote, US",https://www.pinterestcareers.com/jobs/?gh_jid=6482939,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Trust Engineering",pinterest,"Toronto, ON, CA",https://www.pinterestcareers.com/jobs/?gh_jid=7079572,2025-10-02T12:19:14-04:00,greenhouse,,SWE,Entry Level
+Senior Product Manager - Software Delivery Suite,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7292417/?gh_jid=7292417,2025-10-02T10:48:46-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Software Engineer, Backend (Platform - Core Automation)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7293131?gh_jid=7293131,2025-10-01T17:55:32-04:00,greenhouse,,SWE,Entry Level
+Commercial Sales Engineer (Boston),datadog,"Boston, Massachusetts, USA",https://careers.datadoghq.com/detail/6713805/?gh_jid=6713805,2025-10-01T16:26:08-04:00,greenhouse,,SWE,Entry Level
 "Associate, Prime Operations",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7271649?gh_jid=7271649,2025-10-01T16:22:26-04:00,greenhouse,,SWE,Junior
+Senior Software Engineer - Cloud ,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4894969008?gh_jid=4894969008,2025-10-01T15:31:37-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Frontend - Developer Experience",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7075489?gh_jid=7075489,2025-10-01T15:30:24-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra) ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614,2025-10-01T14:59:03-04:00,greenhouse,,SWE,Entry Level
+AI Research Engineer – Datadog AI Research (DAIR),datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Commercial Sales Engineer - Denver,datadog,"Denver, Colorado, USA",https://careers.datadoghq.com/detail/6602630/?gh_jid=6602630,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 Customer Success Associate - Boston,datadog,"Boston, Massachusetts, USA",https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Junior
 Customer Success Associate - Denver,datadog,"Denver, Colorado, USA",https://careers.datadoghq.com/detail/7228240/?gh_jid=7228240,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Junior
+Design Manager I - Developer Enablement,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/6996319/?gh_jid=6996319,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Level I
+"Developer Advocate, Cloud Observability",datadog,"New York, USA, Remote",https://careers.datadoghq.com/detail/7125737/?gh_jid=7125737,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 Engineering Manager - Security Incident Response,datadog,"Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA",https://careers.datadoghq.com/detail/6599291/?gh_jid=6599291,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 GTM Strategy and Operations Associate - Enterprise Sales,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7166206/?gh_jid=7166206,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Junior
+Mid-Market Sales Engineer (AMER West),datadog,"Denver, Colorado, USA",https://careers.datadoghq.com/detail/7174232/?gh_jid=7174232,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Premier Support Engineer 3 - NYC,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7120493/?gh_jid=7120493,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 "Product Manager II, Cloud Security Management - Agentless",datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7271708/?gh_jid=7271708,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Sales Engineer (Customer Success) - Boston,datadog,"Boston, Massachusetts, USA",https://careers.datadoghq.com/detail/7242265/?gh_jid=7242265,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Sales Engineer (Customer Success) - Denver,datadog,"Denver, Colorado, USA",https://careers.datadoghq.com/detail/7215574/?gh_jid=7215574,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 Security Engineer II - Cloud Security,datadog,"Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7205511/?gh_jid=7205511,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Developer Advocate - Generative AI,datadog,"San Francisco, California, USA",https://careers.datadoghq.com/detail/7123951/?gh_jid=7123951,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Enterprise Sales Engineer - Majors Northwest,datadog,"Oregon, USA, Remote; Washington, USA, Remote",https://careers.datadoghq.com/detail/7159084/?gh_jid=7159084,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer ,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - AI Code Gen - Agent Engineer,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - Database Monitoring (Postgres),datadog,"California, USA, Remote; Colorado, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; Washington, USA, Remote",https://careers.datadoghq.com/detail/6961683/?gh_jid=6961683,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - Distributed Systems,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/3851927/?gh_jid=3851927,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - IDE AI Experiences - LLM Engineer,datadog,"Boston, Massachusetts, USA",https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - Language Foundations,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7073137/?gh_jid=7073137,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 Senior Software Engineer - Threat Intelligence & Detection Experiences (TIDEx),datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7264409/?gh_jid=7264409,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Engineer - Event Platform Storage,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7081040/?gh_jid=7081040,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Staff GenAI Engineer - Application Performance Monitoring (APM),datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Software Engineer ,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Senior Technical Solutions Operations Engineer,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7186233/?gh_jid=7186233,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff AI Engineer - Graphing,datadog,"Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7245963/?gh_jid=7245963,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff AI Engineer - Notebooks,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7248104/?gh_jid=7248104,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff GenAI Engineer - Application Performance Monitoring (APM),datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 Staff Software Engineer - AAA Identity,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7260128/?gh_jid=7260128,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - AI Platforms,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7137294/?gh_jid=7137294,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - Dashboards,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/6678803/?gh_jid=6678803,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - Metrics Query,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/6620279/?gh_jid=6620279,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - ML Observability,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - New Workloads,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/6627432/?gh_jid=6627432,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - PostgreSQL,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/6360433/?gh_jid=6360433,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer - Query Experience,datadog,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/7206358/?gh_jid=7206358,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
+Staff Statistics Engineer - Feature Flagging and Experimentation,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Entry Level
 Strategic Finance Associate - NYC,datadog,"New York, New York, USA",https://careers.datadoghq.com/detail/7262906/?gh_jid=7262906,2025-10-01T14:49:13-04:00,greenhouse,,SWE,Junior
+"Software Engineer, Rider",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8193572002?gh_jid=8193572002,2025-10-01T14:14:05-04:00,greenhouse,,SWE,Entry Level
 Senior Sanctions Associate,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7254798?gh_jid=7254798,2025-10-01T12:53:42-04:00,greenhouse,,SWE,Junior
+"Developer Experience Engineer, Privy",stripe,"NYC-Privy, US-Remote",https://stripe.com/jobs/search?gh_jid=7104344,2025-10-01T12:41:59-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Engineer, Core Infrastructure",stripe,"Seattle, US Remote",https://stripe.com/jobs/search?gh_jid=7017350,2025-10-01T12:41:59-04:00,greenhouse,,SWE,Entry Level
 "Staff Frontend Engineer, Privy",stripe,"NYC-Privy, US-Remote ",https://stripe.com/jobs/search?gh_jid=7091959,2025-10-01T12:41:59-04:00,greenhouse,,SWE,Entry Level
 "Staff Security Engineer, Privy",stripe,"NYC-Privy, US-Remote",https://stripe.com/jobs/search?gh_jid=7104148,2025-10-01T12:41:59-04:00,greenhouse,,SWE,Entry Level
 Senior Software Engineer - IAM,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7286163?gh_jid=7286163,2025-10-01T11:28:22-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Institutional - Reporting & Monetization)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7291170?gh_jid=7291170,2025-10-01T11:14:32-04:00,greenhouse,,SWE,Entry Level
+"Financial Crime, Lead Risk Associate",monzo,"Cardiff, London or Remote (UK)",https://job-boards.greenhouse.io/monzo/jobs/7290720,2025-10-01T10:40:49-04:00,greenhouse,,SWE,Junior
+Industrial Engineer II,wayfair,"Cranbury, NJ",https://www.wayfair.com/careers/jobs/8125148002?gh_jid=8125148002,2025-10-01T09:25:01-04:00,greenhouse,,SWE,Entry Level
+"Sr. Solutions Engineer - Digital Native Business, Residency Program",databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8111533002,2025-10-01T04:26:06-04:00,greenhouse,,SWE,Entry Level
+Sr. Specialist Solutions Architect - Data Engineering - HLS,databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8073348002,2025-10-01T04:05:06-04:00,greenhouse,,SWE,Entry Level
 "Sr Security Engineer, Incident Response",databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8153870002,2025-10-01T04:02:51-04:00,greenhouse,,SWE,Entry Level
+"Sr. Technical Marketing Engineer, Unity Catalog",databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=8027299002,2025-10-01T03:57:13-04:00,greenhouse,,SWE,Entry Level
+Staff Security Software Engineer,databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002,2025-10-01T03:47:45-04:00,greenhouse,,SWE,Entry Level
 Staff Product Security Engineer,databricks,United States,https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002,2025-10-01T03:45:59-04:00,greenhouse,,SWE,Entry Level
 "Senior Manager, Paid Social Lead",instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7288566,2025-09-30T19:01:06-04:00,greenhouse,,SWE,Entry Level
-Business Operations & Strategy Associate,contentful,"Denver, Colorado, United States",https://job-boards.greenhouse.io/contentful/jobs/7275095,2025-09-30T14:42:27-04:00,greenhouse,,SWE,Junior
-"Senior Fullstack Engineer, Analyze Product",webflow,U.S. Remote,https://job-boards.greenhouse.io/webflow/jobs/6897727,2025-09-29T17:59:28-04:00,greenhouse,,SWE,Entry Level
-"Senior Fullstack Engineer, Styles",webflow,CA Remote (BC & ON only); U.S. Remote,https://job-boards.greenhouse.io/webflow/jobs/7083112,2025-09-29T13:49:08-04:00,greenhouse,,SWE,Entry Level
-"Senior Frontend Engineer, Developer Platform",webflow,CA Remote (BC & ON only); U.S. Remote,https://job-boards.greenhouse.io/webflow/jobs/7244152,2025-09-29T13:37:09-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Frontend - Risk Platform ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7289100?gh_jid=7289100,2025-09-30T16:39:24-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer,lob,United States,http://www.lob.com/careers/apply?gh_jid=7179176,2025-09-30T13:52:45-04:00,greenhouse,,SWE,Entry Level
+ Software Engineer II- K8s Agents,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4895184008?gh_jid=4895184008,2025-09-30T12:44:15-04:00,greenhouse,,SWE,Entry Level
+"Control Plane - Serverless Applications - Software Engineer II (Go, K8s)",elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7228778&gh_jid=7228778,2025-09-30T11:38:52-04:00,greenhouse,,SWE,Entry Level
+Senior Workday Developer,dataiku,"United States, Remote",https://job-boards.greenhouse.io/dataiku/jobs/5652749004,2025-09-30T10:22:27-04:00,greenhouse,,SWE,Entry Level
 "Software Engineer, Backend (Platform - Identity)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429,2025-09-29T10:24:50-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend  (Consumer - Growth)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6650914?gh_jid=6650914,2025-09-27T16:13:36-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Consumer - Growth)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932,2025-09-27T16:04:14-04:00,greenhouse,,SWE,Entry Level
+Autonomous Vehicle Safety & Compliance Engineer,lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002,2025-09-26T21:11:00-04:00,greenhouse,,SWE,Entry Level
+Autonomous Vehicle Safety & Compliance Engineer,lyft,"New York, NY",https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002,2025-09-26T21:11:00-04:00,greenhouse,,SWE,Entry Level
 "Android Engineer, Driver Loyalty & Rewards",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8124230002?gh_jid=8124230002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Entry Level
 Operations Associate,lyft,"Charlotte, NC",https://app.careerpuck.com/job-board/lyft/job/8129438002?gh_jid=8129438002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Junior
 "Senior Frontend Engineer, Lyft Business",lyft,"San Francisco, CA",https://app.careerpuck.com/job-board/lyft/job/8160801002?gh_jid=8160801002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Entry Level
+Senior Frontend Infra Engineer,lyft,"New York, NY",https://app.careerpuck.com/job-board/lyft/job/8083771002?gh_jid=8083771002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Lyft Ads",lyft,"New York, NY",https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Entry Level
 "Software Engineer, Detection Engineering",lyft,"Seattle, WA",https://app.careerpuck.com/job-board/lyft/job/8141512002?gh_jid=8141512002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Entry Level
-Senior Security Engineer,contentful,"Denver, Colorado, United States",https://job-boards.greenhouse.io/contentful/jobs/7028131,2025-09-25T18:48:09-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Routing",lyft,"New York, NY",https://app.careerpuck.com/job-board/lyft/job/8153109002?gh_jid=8153109002,2025-09-26T20:28:24-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Blockchain Platform - Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7071526?gh_jid=7071526,2025-09-26T17:19:46-04:00,greenhouse,,SWE,Entry Level
+Lead Data Engineer,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4891908008?gh_jid=4891908008,2025-09-26T12:55:53-04:00,greenhouse,,SWE,Entry Level
+Principal Software Engineer - Security/ML Platform Architect,newrelic,"Atlanta, Georgia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Miami, Florida, USA; Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4641904008?gh_jid=4641904008,2025-09-26T12:55:53-04:00,greenhouse,,SWE,Entry Level
+Software Engineer 2-K8s Agents,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4891905008?gh_jid=4891905008,2025-09-26T12:55:53-04:00,greenhouse,,SWE,Entry Level
+ Software Engineer - Ruby/React,newrelic,"Portland, Oregon, USA",https://job-boards.greenhouse.io/newrelic/jobs/4907426008?gh_jid=4907426008,2025-09-26T12:55:53-04:00,greenhouse,,SWE,Entry Level
+Solutions Engineer,sixfold,"New York City, NY",https://job-boards.greenhouse.io/sixfold/jobs/4929355008,2025-09-26T11:03:44-04:00,greenhouse,,SWE,Entry Level
+"Senior Sales Engineer, Public Sector",dataiku,"United States, Washington D.C.",https://job-boards.greenhouse.io/dataiku/jobs/5573924004,2025-09-26T09:16:02-04:00,greenhouse,,SWE,Entry Level
+Senior Android Engineer ,cabify,Remote or Madrid (HQ),https://job-boards.greenhouse.io/cabify/jobs/6566087002,2025-09-26T02:51:33-04:00,greenhouse,,SWE,Entry Level
 "Offensive Security Engineer, Assessments (Web3)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6995309?gh_jid=6995309,2025-09-25T18:17:27-04:00,greenhouse,,SWE,Entry Level
 Platform - Senior Cloud Security Engineer,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7202754&gh_jid=7202754,2025-09-25T18:10:04-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - Financial Hub",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7009446?gh_jid=7009446,2025-09-25T16:38:09-04:00,greenhouse,,SWE,Entry Level
 "Senior Associate, Broker Dealer Operations ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7255834?gh_jid=7255834,2025-09-25T13:36:23-04:00,greenhouse,,SWE,Junior
 "Associate General Counsel, Institutional",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7254504?gh_jid=7254504,2025-09-25T13:36:22-04:00,greenhouse,,SWE,Junior
 "Associate, Base Ecosystem",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7244052?gh_jid=7244052,2025-09-25T13:36:15-04:00,greenhouse,,SWE,Junior
 Institutional Sales Associate,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7235232?gh_jid=7235232,2025-09-25T13:36:15-04:00,greenhouse,,SWE,Junior
+"Senior Software Engineer, Backend (Core Automation)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7184757?gh_jid=7184757,2025-09-25T13:36:04-04:00,greenhouse,,SWE,Entry Level
 "Staff Security Engineer, Network Security",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630,2025-09-25T13:36:03-04:00,greenhouse,,SWE,Entry Level
+AI Growth Lead (Staff Software Engineer),coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7178394?gh_jid=7178394,2025-09-25T13:36:02-04:00,greenhouse,,SWE,Entry Level
+Senior Staff Software Engineer (Platform - DevX),coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7181058?gh_jid=7181058,2025-09-25T13:36:01-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Machine Learning Platform Engineer ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833,2025-09-25T13:35:46-04:00,greenhouse,,SWE,Entry Level
+TMS Compliance QA Analyst IV,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7128918?gh_jid=7128918,2025-09-25T13:35:42-04:00,greenhouse,,SWE,Entry Level
 "Associate Manager, Family Office Security",coinbase,"Hybrid - Los Angeles, CA",https://www.coinbase.com/careers/positions/7100421?gh_jid=7100421,2025-09-25T13:35:31-04:00,greenhouse,,SWE,Junior
 "Associate Manager, Residential Security",coinbase,"Hybrid - Los Angeles, CA",https://www.coinbase.com/careers/positions/7217423?gh_jid=7217423,2025-09-25T13:35:31-04:00,greenhouse,,SWE,Junior
+"Senior Software Engineer, Frontend - Developer Experience, Mobile",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7165070?gh_jid=7165070,2025-09-25T13:35:21-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend - Onchain DevX",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7081419?gh_jid=7081419,2025-09-25T13:35:21-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend - AI DevX",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7075417?gh_jid=7075417,2025-09-25T13:35:18-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend - DevX CI",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7071511?gh_jid=7071511,2025-09-25T13:35:18-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend - Infra Core Reliability ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7075421?gh_jid=7075421,2025-09-25T13:35:18-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - DevX Server Foundations",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7097428?gh_jid=7097428,2025-09-25T13:35:18-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Blockchain Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7059327?gh_jid=7059327,2025-09-25T13:35:14-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - Blockchain Platform ",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7059317?gh_jid=7059317,2025-09-25T13:35:14-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - Blockchain Platform (Blockchain Data Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7088264?gh_jid=7088264,2025-09-25T13:35:13-04:00,greenhouse,,SWE,Entry Level
+" Software Engineer, Backend - Blockchain Platform (Staking Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7094719?gh_jid=7094719,2025-09-25T13:35:13-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Blockchain Platform (Staking Validators)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7114605?gh_jid=7114605,2025-09-25T13:35:13-04:00,greenhouse,,SWE,Entry Level
 "Associate, Corporate Development (Integration)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6932070?gh_jid=6932070,2025-09-25T13:34:33-04:00,greenhouse,,SWE,Junior
+"Senior Staff Software Engineer, Backend (Consumer - Growth)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955,2025-09-25T13:34:33-04:00,greenhouse,,SWE,Entry Level
+Senior Analytics Engineer,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6884044?gh_jid=6884044,2025-09-25T13:34:09-04:00,greenhouse,,SWE,Entry Level
+Staff Analytics Engineer,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7066494?gh_jid=7066494,2025-09-25T13:34:08-04:00,greenhouse,,SWE,Entry Level
+Lead EDD Compliance Analyst,coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6984439?gh_jid=6984439,2025-09-25T13:33:59-04:00,greenhouse,,SWE,Entry Level
+Lead TMS Quality Compliance Analyst,coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6984448?gh_jid=6984448,2025-09-25T13:33:59-04:00,greenhouse,,SWE,Entry Level
+Lead TMS Compliance Analyst ,coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6984444?gh_jid=6984444,2025-09-25T13:33:58-04:00,greenhouse,,SWE,Entry Level
 Senior Systems Engineer - Identity Platform,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6727037?gh_jid=6727037,2025-09-25T13:33:45-04:00,greenhouse,,SWE,Entry Level
 "Associate Manager, Compliance",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6675524?gh_jid=6675524,2025-09-25T13:33:28-04:00,greenhouse,,SWE,Junior
+TMS Quality Compliance Analyst III,coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6676764?gh_jid=6676764,2025-09-25T13:33:28-04:00,greenhouse,,SWE,Entry Level
 "Associate Manager, Compliance",coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6675509?gh_jid=6675509,2025-09-25T13:33:27-04:00,greenhouse,,SWE,Junior
 "Associate Manager, EDD Compliance",coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450,2025-09-25T13:33:27-04:00,greenhouse,,SWE,Junior
 "Associate Manager, Transaction Monitoring Compliance",coinbase,"Charlotte, NC",https://www.coinbase.com/careers/positions/6984453?gh_jid=6984453,2025-09-25T13:33:27-04:00,greenhouse,,SWE,Junior
+"Software Engineer, Full Stack (EAA)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6652031?gh_jid=6652031,2025-09-25T13:33:24-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer (EAA),coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6652022?gh_jid=6652022,2025-09-25T13:33:24-04:00,greenhouse,,SWE,Entry Level
+Staff Machine Learning Engineer - (Platform) ,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6410953?gh_jid=6410953,2025-09-25T13:32:45-04:00,greenhouse,,SWE,Entry Level
+Staff Machine Learning Engineer - AI/ML Risk Platform,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7089642?gh_jid=7089642,2025-09-25T13:32:44-04:00,greenhouse,,SWE,Entry Level
+Software Engineer,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713,2025-09-25T13:32:15-04:00,greenhouse,,SWE,Entry Level
+Senior Product Designer - Developer Platform,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895,2025-09-25T13:31:50-04:00,greenhouse,,SWE,Entry Level
 Senior Product Manager - Identity & Access,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6951278?gh_jid=6951278,2025-09-25T13:31:44-04:00,greenhouse,,SWE,Entry Level
+Senior Machine Learning Engineer - Core Automation,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7120635?gh_jid=7120635,2025-09-25T13:31:34-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Infrastructure (Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6206378?gh_jid=6206378,2025-09-25T13:31:33-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Frontend (Institutional - Foundations, Prime)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6659071?gh_jid=6659071,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5949461?gh_jid=5949461,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Infrastructure (Platform - Core Reliability)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6881692?gh_jid=6881692,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Infrastructure (Platform - Datastores)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6196407?gh_jid=6196407,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Infrastructure - Platform (Compute)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6305997?gh_jid=6305997,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Infrastructure (Platform Developer Experience - Release)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6423028?gh_jid=6423028,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Infrastructure ( Platform DevX - Cloud Provisioning)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5949636?gh_jid=5949636,2025-09-25T13:31:32-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Frontend (Consumer - Growth)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961,2025-09-25T13:31:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Frontend (Consumer - Trading)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526,2025-09-25T13:31:31-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Frontend - Institutional Products",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7227046?gh_jid=7227046,2025-09-25T13:31:31-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Frontend (Consumer - Coinbase One)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7135192?gh_jid=7135192,2025-09-25T13:31:30-04:00,greenhouse,,SWE,Level I
+"Software Engineer, Frontend (Consumer - Trading)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6821664?gh_jid=6821664,2025-09-25T13:31:30-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Frontend (Consumer - Trust and Loyalty)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948954?gh_jid=5948954,2025-09-25T13:31:30-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Consumer)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906,2025-09-25T13:31:29-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Consumer - Growth)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942,2025-09-25T13:31:29-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Institutional - Exchange)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6217958?gh_jid=6217958,2025-09-25T13:31:29-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Institutional - Foundations)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033,2025-09-25T13:31:29-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Institutional - Settlements & Transfers)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7232387?gh_jid=7232387,2025-09-25T13:31:29-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Consumer - Coinbase Card)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Institutional - Exchange, Market Data & Analytics)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7155415?gh_jid=7155415,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Institutional - Markets, Derivatives)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6539959?gh_jid=6539959,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend - Institutional Product Group",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Institutional - Staking)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Institutional - Trading Derivatives)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6249394?gh_jid=6249394,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Platform - Finhub)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6599511?gh_jid=6599511,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Platform - Payments)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6894602?gh_jid=6894602,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Backend (Platform - Risk Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6872457?gh_jid=6872457,2025-09-25T13:31:28-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Consumer - Coinbase One)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202,2025-09-25T13:31:27-04:00,greenhouse,,SWE,Level I
+"Software Engineer, Backend  (Consumer - Coinbase Card)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6535287?gh_jid=6535287,2025-09-25T13:31:26-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend  (Consumer - Trading)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6812261?gh_jid=6812261,2025-09-25T13:31:26-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend (Institutional - Financing)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6886015?gh_jid=6886015,2025-09-25T13:31:26-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend (Institutional - Markets, Derivatives)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491,2025-09-25T13:31:26-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend - Institutional Product Group",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7226106?gh_jid=7226106,2025-09-25T13:31:26-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend (Institutional - Staking)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/6739213?gh_jid=6739213,2025-09-25T13:31:26-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer, Backend (Consumer - Coinbase One)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7135188?gh_jid=7135188,2025-09-25T13:31:25-04:00,greenhouse,,SWE,Level I
+"Software Engineer, Backend (Consumer - Stablecoin)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948501?gh_jid=5948501,2025-09-25T13:31:25-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend - Financial Hub",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7009448?gh_jid=7009448,2025-09-25T13:31:24-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Backend (Platform)",coinbase,Remote - USA,https://www.coinbase.com/careers/positions/5948179?gh_jid=5948179,2025-09-25T13:31:24-04:00,greenhouse,,SWE,Entry Level
 Senior Software Engineer - Identity,coinbase,Remote - USA,https://www.coinbase.com/careers/positions/7090083?gh_jid=7090083,2025-09-25T13:31:24-04:00,greenhouse,,SWE,Entry Level
+Staff Site Reliability Engineer - Federal ,okta,"Washington, DC",https://www.okta.com/company/careers/opportunity/7026693?gh_jid=7026693,2025-09-25T00:20:56-04:00,greenhouse,,SWE,Entry Level
+Staff Site Reliability Engineer (Federal) ,okta,"Washington, DC",https://www.okta.com/company/careers/opportunity/7026700?gh_jid=7026700,2025-09-25T00:20:23-04:00,greenhouse,,SWE,Entry Level
+IT - Integration Engineer,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7193863&gh_jid=7193863,2025-09-24T18:42:51-04:00,greenhouse,,SWE,Entry Level
+Senior Developer Advocate,elastic,"New York City, NY",https://jobs.elastic.co/jobs?gh_jid=7263056&gh_jid=7263056,2025-09-24T17:31:30-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer- Federal,okta,"Washington, DC",https://www.okta.com/company/careers/opportunity/7026679?gh_jid=7026679,2025-09-24T15:50:23-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Self Serve - Experimentation ",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7274194,2025-09-24T12:51:57-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer II, Ads Data Solutions Engineering",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7271639,2025-09-24T06:21:05-04:00,greenhouse,,SWE,Entry Level
+Planning & Allocation Associate,wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8164825002?gh_jid=8164825002,2025-09-23T19:14:55-04:00,greenhouse,,SWE,Junior
+"Software Engineer II, Android",omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7235657,2025-09-19T19:08:33-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Android",omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7235650,2025-09-19T19:08:00-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7235659,2025-09-19T18:40:20-04:00,greenhouse,,SWE,Entry Level
+Software Engineer II,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7235661,2025-09-19T18:37:24-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, iOS",omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7235654,2025-09-19T18:27:55-04:00,greenhouse,,SWE,Entry Level
+"Software Engineer II, iOS",omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7235648,2025-09-19T18:25:16-04:00,greenhouse,,SWE,Entry Level
+Fullstack Software Engineer ,homelight,"San Francisco, CA",https://job-boards.greenhouse.io/homelight/jobs/7059421,2025-09-19T17:30:04-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer - Backend (IGA),okta,"Toronto, CA",https://www.okta.com/company/careers/opportunity/7234870?gh_jid=7234870,2025-09-19T14:06:38-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer- Salesforce,okta,"San Francisco, CA",https://www.okta.com/company/careers/opportunity/7187882?gh_jid=7187882,2025-09-19T14:06:38-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer- Salesforce,okta,"Chicago, IL",https://www.okta.com/company/careers/opportunity/7219511?gh_jid=7219511,2025-09-19T14:06:38-04:00,greenhouse,,SWE,Entry Level
+Staff Software Engineer- Salesforce,okta,"Bellevue, WA",https://www.okta.com/company/careers/opportunity/7219504?gh_jid=7219504,2025-09-19T14:06:38-04:00,greenhouse,,SWE,Entry Level
 Fraud & Identity Specialist (Contract),instacart,United States - Remote,https://instacart.careers/job/?gh_jid=4995818,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
-"Associate, Business Development",axios,"Remote from one of the following cities: Miami, Philadelphia, Austin, DC, Atlanta, Chicago",https://job-boards.greenhouse.io/axios/jobs/7254412,2025-09-17T10:43:36-04:00,greenhouse,,SWE,Junior
+"Principal Software Engineer, Ads Quality",instacart,USA - Remote,https://instacart.careers/job/?gh_jid=7254549,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Principal Software Engineer, Catalog & Real-Time Serving Systems",instacart,USA - Remote,https://instacart.careers/job/?gh_jid=7066216,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Data Engineer, Catalog",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7161091,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Data Engineer, Core Experience",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7238949,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+Senior Machine Learning Engineer - Search and Recommendations,instacart,United States - Remote,https://instacart.careers/job/?gh_jid=7095174,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+Senior Site Reliability Engineer II ,instacart,"Canada - Remote (BC, ON, AB, or NS only)",https://instacart.careers/job/?gh_jid=6957204,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Ads",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7232634,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Core Experience",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7175500,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Enterprise Fulfillment",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7247802,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+" Senior Software Engineer II, Inventory Intelligence",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7247814,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineering Manager, AI & Developer Productivity",instacart,USA - Remote,https://instacart.careers/job/?gh_jid=7260421,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Logistics Foundations",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7255076,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Senior Staff Software Engineer, Ads Infrastructure & Systems",instacart,USA - Remote,https://instacart.careers/job/?gh_jid=7066269,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, Core Shopping",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7179626,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, FoodStorm",instacart,"Canada - Remote (ON, AB, BC, or NS Only)",https://instacart.careers/job/?gh_jid=7056261,2025-09-19T11:53:45-04:00,greenhouse,,SWE,Entry Level
+Senior Associate of Retail Sales Strategy,wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8175178002?gh_jid=8175178002,2025-09-18T14:21:16-04:00,greenhouse,,SWE,Junior
+"Full Time Associate, Back of House Retail Operations, Wayfair Stores",wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8074461002?gh_jid=8074461002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Junior
+"Part Time Associate, Back of House Retail Operations, Wayfair Stores",wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8074462002?gh_jid=8074462002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Junior
+"Part Time Associate, Visual Merchandising",wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8027091002?gh_jid=8027091002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Junior
+Part Time Sales Associate for AllModern (A Wayfair Specialty Brand),wayfair,"Austin, TX",https://www.wayfair.com/careers/jobs/8066748002?gh_jid=8066748002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Junior
+"Senior Software Engineer, GraphQL Platforms",wayfair,"Mountain View, CA",https://www.wayfair.com/careers/jobs/7933069002?gh_jid=7933069002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineer, Supplier Advertising",wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8066904002?gh_jid=8066904002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Entry Level
+Tax Senior Associate,wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8042470002?gh_jid=8042470002,2025-09-17T10:43:47-04:00,greenhouse,,SWE,Junior
 FSQA Associate,hellofresh,"Burr Ridge, IL, United States",https://careers.hellofresh.com/global/en/job/7055613?gh_jid=7055613,2025-09-17T10:36:30-04:00,greenhouse,,SWE,Junior
+"Weekend Sales Associate, Part-Time",wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8148695002?gh_jid=8148695002,2025-09-16T15:30:23-04:00,greenhouse,,SWE,Junior
+Part Time Retail Associate,wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8148578002?gh_jid=8148578002,2025-09-16T15:30:13-04:00,greenhouse,,SWE,Junior
+"Part Time Associate, Sales",wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8148572002?gh_jid=8148572002,2025-09-16T15:30:02-04:00,greenhouse,,SWE,Junior
+"Full Time Associate, Retail Sales",wayfair,"Wilmette, IL",https://www.wayfair.com/careers/jobs/8145860002?gh_jid=8145860002,2025-09-16T15:25:57-04:00,greenhouse,,SWE,Junior
+"Senior Associate, Global Sales Revenue Operations (Category Sales)",wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8138946002?gh_jid=8138946002,2025-09-16T11:51:27-04:00,greenhouse,,SWE,Junior
+React Native Engineer ,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4884183008,2025-09-16T11:44:42-04:00,greenhouse,,SWE,Entry Level
+Full-Time Visual Merchandising Associate - Perigold Luxury,wayfair,"West Palm Beach, FL",https://www.wayfair.com/careers/jobs/8171458002?gh_jid=8171458002,2025-09-16T10:10:15-04:00,greenhouse,,SWE,Junior
+Staff Backend Engineer ,monzo,"Cardiff, London or Remote (UK)",https://job-boards.greenhouse.io/monzo/jobs/6636147,2025-09-16T06:58:16-04:00,greenhouse,,SWE,Entry Level
+"Senior Platform Engineer, Machine Learning",monzo,"Cardiff, London or Remote (UK); London",https://job-boards.greenhouse.io/monzo/jobs/7118972,2025-09-16T06:57:37-04:00,greenhouse,,SWE,Entry Level
+Senior Backend Engineer,monzo,"Cardiff, London or Remote (UK)",https://job-boards.greenhouse.io/monzo/jobs/6635837,2025-09-16T06:56:12-04:00,greenhouse,,SWE,Entry Level
+Backend Engineer III ,monzo,"Cardiff, London or Remote (UK)",https://job-boards.greenhouse.io/monzo/jobs/6635595,2025-09-16T05:19:55-04:00,greenhouse,,SWE,Entry Level
+Site Reliability Engineer III,cabify,Madrid or Remote,https://job-boards.greenhouse.io/cabify/jobs/7425147002,2025-09-15T11:01:43-04:00,greenhouse,,SWE,Entry Level
+Senior Site Reliability Engineer,cabify,Remote or Madrid (HQ),https://job-boards.greenhouse.io/cabify/jobs/4401505002,2025-09-15T11:01:29-04:00,greenhouse,,SWE,Entry Level
+Senior Backend Software Engineer,cabify,Remote or Madrid (HQ),https://job-boards.greenhouse.io/cabify/jobs/6545369002,2025-09-15T10:57:34-04:00,greenhouse,,SWE,Entry Level
+Staff Platform Engineer,lob,United States,http://www.lob.com/careers/apply?gh_jid=7233018,2025-09-11T12:04:47-04:00,greenhouse,,SWE,Entry Level
+Elasticsearch - Senior Java Engineer - Distributed Systems,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7241967&gh_jid=7241967,2025-09-10T06:39:49-04:00,greenhouse,,SWE,Entry Level
+Elasticsearch - Principal Software Engineer II - Vector Search,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7201362&gh_jid=7201362,2025-09-08T09:09:44-04:00,greenhouse,,SWE,Entry Level
+Senior BI Developer ,myheritage,"Or Yehuda, Israel",https://careers.myheritage.com/jobs/6967571?gh_jid=6967571,2025-09-07T08:14:12-04:00,greenhouse,,SWE,Entry Level
 Senior Security Engineer -  Data Science,elastic,United States,https://jobs.elastic.co/jobs?gh_jid=6950233&gh_jid=6950233,2025-09-05T18:39:54-04:00,greenhouse,,SWE,Entry Level
+"Senior Software Engineering Manager, Catalog Consumption",wayfair,"Boston, MA",https://www.wayfair.com/careers/jobs/8149139002?gh_jid=8149139002,2025-09-05T13:57:12-04:00,greenhouse,,SWE,Entry Level
+Operations Industrial Engineer,wayfair,"Phoenix, AZ",https://www.wayfair.com/careers/jobs/8133901002?gh_jid=8133901002,2025-09-04T10:27:04-04:00,greenhouse,,SWE,Entry Level
+"Senior Associate, Labor Planning",wayfair,"City of Industry, CA",https://www.wayfair.com/careers/jobs/8126030002?gh_jid=8126030002,2025-09-04T10:27:04-04:00,greenhouse,,SWE,Junior
+"Senior Associate, Labor Planning",wayfair,"Phoenix, AZ",https://www.wayfair.com/careers/jobs/8133904002?gh_jid=8133904002,2025-09-04T10:27:04-04:00,greenhouse,,SWE,Junior
+Operations Industrial Engineer,wayfair,"City of Industry, CA",https://www.wayfair.com/careers/jobs/8125842002?gh_jid=8125842002,2025-09-04T10:27:03-04:00,greenhouse,,SWE,Entry Level
+Full Time Furniture Sales Associate + Key Holder for AllModern (A Wayfair Specialty Brand),wayfair,"Dedham, MA",https://www.wayfair.com/careers/jobs/8106289002?gh_jid=8106289002,2025-09-04T10:26:52-04:00,greenhouse,,SWE,Junior
+Full Time Sales Associate with Design Expertise- AllModern (A Wayfair Specialty Retail Brand),wayfair,"Dedham, MA",https://www.wayfair.com/careers/jobs/8106264002?gh_jid=8106264002,2025-09-04T10:26:50-04:00,greenhouse,,SWE,Junior
+Part-Time Sales Associate ,wayfair,"Sarasota, FL",https://www.wayfair.com/careers/jobs/8136234002?gh_jid=8136234002,2025-09-04T10:26:48-04:00,greenhouse,,SWE,Junior
 "Senior Manager, Head of Social Media & Corporate Blog",elastic,United States,https://jobs.elastic.co/jobs?gh_jid=7145172&gh_jid=7145172,2025-09-04T00:56:07-04:00,greenhouse,,SWE,Entry Level
+Senior Applied AI Engineer,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7155511,2025-09-03T03:00:52-04:00,greenhouse,,SWE,Entry Level
+"Staff Software Engineer, AI and Data Technology",omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7217015,2025-09-02T18:31:13-04:00,greenhouse,,SWE,Entry Level
+Senior Customer Success Engineer,veracode,"Burlington, MA OR US Remote",https://www.veracode.com/career/job?gh_jid=8122430002,2025-08-26T14:36:40-04:00,greenhouse,,SWE,Entry Level
+Software Engineer II,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4821266008,2025-08-23T23:03:20-04:00,greenhouse,,SWE,Entry Level
+Release Engineer ,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4884316008,2025-08-23T23:01:20-04:00,greenhouse,,SWE,Entry Level
+Site Reliability Engineer (SRE) ,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4894083008,2025-08-22T17:24:07-04:00,greenhouse,,SWE,Entry Level
+Lead Site Reliability Engineer (SRE) ,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4894055008,2025-08-22T17:07:53-04:00,greenhouse,,SWE,Entry Level
+Software Development Engineer in Test (SDET) – Deployment Engineering Solutions,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4889100008,2025-08-20T16:00:20-04:00,greenhouse,,SWE,Entry Level
 Senior Product Security Engineer ,mattermost,United States,https://job-boards.greenhouse.io/mattermost/jobs/4884194008,2025-08-20T15:33:44-04:00,greenhouse,,SWE,Entry Level
+Senior Solutions Engineer (Pre-Sales),sisense,United States,https://www.sisense.com/about/careers/6873039?gh_jid=6873039,2025-08-20T14:30:16-04:00,greenhouse,,SWE,Entry Level
+Solutions Engineer,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7131922,2025-08-18T16:30:53-04:00,greenhouse,,SWE,Entry Level
+ Data Engineering Team Leader ,myheritage,"Or Yehuda, Israel",https://careers.myheritage.com/jobs/7089127?gh_jid=7089127,2025-08-10T10:45:09-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7137954,2025-08-08T14:03:30-04:00,greenhouse,,SWE,Entry Level
+Software Engineer II,omadahealth,"Remote, USA",https://job-boards.greenhouse.io/omadahealth/jobs/7137952,2025-08-08T14:02:39-04:00,greenhouse,,SWE,Entry Level
+Senior Backend Developer,myheritage,"Or Yehuda, Israel",https://careers.myheritage.com/jobs/6028108?gh_jid=6028108,2025-08-07T09:06:53-04:00,greenhouse,,SWE,Entry Level
+Senior Software Engineer ,hologram,Remote - United States Only,https://job-boards.greenhouse.io/hologram/jobs/6659375003,2025-07-31T07:58:40-04:00,greenhouse,,SWE,Entry Level
+Sr. Software Engineer (Backend),angel,"Office: Provo, UT",https://jobs.lever.co/angel/29a1804f-281a-492c-8671-f0dfd492da62,1756839554180,lever,"<div><b style=""font-size: 18px"">Who We Are</b></div><div><br></div><div>Angel is the home of stories that amplify light. Through its platform, thousands of “Angel” investors choose which titles will be created, funded, and distributed. Angel allows creators and audiences to form passionate communities around their creative projects, making the story behind the story as important as the final project itself. Some of the studio's key projects-- The Sound of Freedom and Dry Bar Comedy --have earned...",SWE,Entry Level
+Sr. Software Engineer (Platform),angel,"Office: Provo, UT",https://jobs.lever.co/angel/b9e729c1-eb66-4655-9243-fa658c32ae63,1753454480615,lever,"<div><b style=""font-size: 18px"">Who We Are</b></div><div><br></div><div>Angel is the home of stories that amplify light. Through its platform, thousands of “Angel” investors choose which titles will be created, funded, and distributed. Angel allows creators and audiences to form passionate communities around their creative projects, making the story behind the story as important as the final project itself. Some of the studio's key projects-- The Sound of Freedom and Dry Bar Comedy --have earned...",SWE,Entry Level
