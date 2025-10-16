@@ -34,8 +34,9 @@ def normalize_company_name(name: str) -> str:
     return re.sub(r'[^a-zA-Z0-9]', '', name.lower())
 
 def is_relevant_job(job: Dict, settings: Dict) -> bool:
-    """Check if job matches our criteria."""
+    """Check if job matches our criteria - STRICT entry-level only."""
     from datetime import datetime, timedelta
+    import re
     
     title = job.get('title', '').lower()
     location = job.get('location', '').lower()
@@ -52,19 +53,31 @@ def is_relevant_job(job: Dict, settings: Dict) -> bool:
         except:
             pass
     
-    # Check location (more flexible)
+    # Check location
     us_locations = [loc.lower() for loc in settings['filters']['locations']]
     if not any(loc in location for loc in us_locations):
         return False
     
-    # Check job title relevance (more flexible)
+    # STRICT: Exclude senior roles first
+    job_text = f"{title} {description}".lower()
+    senior_keywords = [
+        'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff', 'director', 'manager',
+        'architect', 'head of', 'vp ', 'vice president', 'chief',
+        '3+ years', '4+ years', '5+ years', '6+ years', '3-5 years', '4-6 years',
+        '3 years', '4 years', '5 years', '6 years', 'minimum 3', 'minimum 4', 'minimum 5',
+        'at least 3', 'at least 4', 'at least 5', 'experienced', 'expert'
+    ]
+    
+    if any(keyword in job_text for keyword in senior_keywords):
+        return False
+    
+    # Check job title relevance
     all_titles = []
     all_titles.extend([t.lower() for t in settings['filters']['job_titles']['software_engineering']])
     all_titles.extend([t.lower() for t in settings['filters']['job_titles']['cybersecurity']])
     
     title_match = any(keyword in title for keyword in all_titles)
     
-    # Also check if it's a general "Engineer" role that might be entry-level
     if not title_match:
         general_roles = ['engineer', 'developer', 'analyst', 'specialist']
         title_match = any(role in title for role in general_roles)
@@ -72,15 +85,18 @@ def is_relevant_job(job: Dict, settings: Dict) -> bool:
     if not title_match:
         return False
     
-    # More flexible experience level check
-    experience_keywords = [exp.lower() for exp in settings['filters']['experience_levels']]
-    job_text = f"{title} {description}".lower()
+    # STRICT: Must have entry-level indicators
+    entry_keywords = [
+        'new grad', 'graduate', 'entry level', 'entry-level', 'junior', 'jr.',
+        '0-1', '0-2', '0-3', '0 years', '1 year', '2 years', 'associate',
+        'level 1', 'l1', 'early career', 'recent graduate', 'college hire',
+        'university graduate', 'campus hire', 'trainee', 'intern'
+    ]
     
-    # Check for experience keywords OR absence of senior/lead keywords
-    has_experience_match = any(keyword in job_text for keyword in experience_keywords)
+    has_entry_keywords = any(keyword in job_text for keyword in entry_keywords)
     
-    # Exclude clearly senior roles
-    senior_keywords = ['senior', 'lead', 'principal', 'staff', 'director', 'manager', '5+ years', '3+ years', '4+ years']
-    has_senior_keywords = any(keyword in job_text for keyword in senior_keywords)
+    # Also check for patterns like "0-1 years", "1-2 years" etc.
+    year_patterns = [r'0[-\s]*1\s*year', r'0[-\s]*2\s*year', r'0[-\s]*3\s*year', r'1[-\s]*2\s*year']
+    has_year_pattern = any(re.search(pattern, job_text) for pattern in year_patterns)
     
-    return has_experience_match or not has_senior_keywords
+    return has_entry_keywords or has_year_pattern

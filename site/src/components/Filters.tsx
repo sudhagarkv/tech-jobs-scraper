@@ -8,7 +8,7 @@ interface FiltersProps {
 
 
 const ROLE_CATEGORIES = ['Software Engineering', 'Cybersecurity'];
-const LEVELS = ['New Grad', 'Entry Level'];
+const LEVELS = ['New Grad', '0-1 Years', '0-2 Years', '0-3 Years', 'Junior', 'Entry Level'];
 const POSTED_OPTIONS = [
   { value: 'all', label: 'All (3 months)' },
   { value: '7', label: '7 days' },

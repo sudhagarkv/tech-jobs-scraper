@@ -19,14 +19,31 @@ class JobFilter:
     
     def determine_level(self, title: str, description: str) -> str:
         """Determine experience level based on title and description."""
+        import re
         text = f"{title} {description}".lower()
         
-        if any(keyword in text for keyword in ['new grad', 'graduate', 'entry level', '0-1', '0-2']):
+        # New Grad indicators
+        if any(keyword in text for keyword in ['new grad', 'graduate', 'college hire', 'campus hire', 'university graduate']):
             return 'New Grad'
-        elif any(keyword in text for keyword in ['junior', 'associate', 'level 1', 'l1', 'early career']):
-            return 'Entry Level'
-        else:
-            return 'Entry Level'  # Default for filtered jobs
+        
+        # 0-1 year indicators
+        if any(keyword in text for keyword in ['0-1', '0 years', '1 year']) or re.search(r'0[-\s]*1\s*year', text):
+            return '0-1 Years'
+        
+        # 0-2 year indicators
+        if any(keyword in text for keyword in ['0-2', '1-2']) or re.search(r'0[-\s]*2\s*year|1[-\s]*2\s*year', text):
+            return '0-2 Years'
+        
+        # 0-3 year indicators
+        if any(keyword in text for keyword in ['0-3', '2-3']) or re.search(r'0[-\s]*3\s*year|2[-\s]*3\s*year', text):
+            return '0-3 Years'
+        
+        # Junior/Associate level
+        if any(keyword in text for keyword in ['junior', 'jr.', 'associate', 'level 1', 'l1', 'trainee']):
+            return 'Junior'
+        
+        # Default for entry-level jobs
+        return 'Entry Level'
     
     def filter_jobs(self, jobs: List[Dict]) -> List[Dict]:
         """Filter jobs based on location, title, and experience level."""
