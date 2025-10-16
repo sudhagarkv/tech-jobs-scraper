@@ -61,49 +61,63 @@ def is_us_location(location: str) -> bool:
     return False
 
 def classify_role_by_title(title: str) -> str:
-    """Classify role category based on title patterns - EXPANDED approach."""
+    """Classify role category based on title patterns - COMPREHENSIVE approach."""
     import re
     title_lower = title.lower()
     
-    # Cybersecurity patterns (expanded)
+    # Cybersecurity patterns (comprehensive)
     cyber_patterns = [
-        r'(security|cyber|infosec)\s+(engineer|analyst|specialist|consultant)',
-        r'(junior|jr\.?|associate|entry|graduate|new grad)\s+(security|cyber)',
+        r'(security|cyber|infosec)\s+(engineer|analyst|specialist|consultant|architect)',
+        r'(junior|jr\.?|associate|entry|graduate|new grad|early career)\s+(security|cyber)',
         r'(application security|appsec|product security|cloud security|iam|identity|soc|incident response|threat|detection|grc|siem|splunk|vulnerability|pentest|devsecops)',
-        r'(security|cyber)\s+(engineer|analyst)\s*(i|1|one|entry)?',
-        r'information\s+security',
-        r'risk\s+(analyst|engineer)',
-        r'compliance\s+(analyst|engineer)',
-        r'security\s+(operations|ops)',
-        r'threat\s+(intelligence|hunting|analyst)',
-        r'malware\s+(analyst|researcher)',
-        r'forensics?\s+(analyst|investigator)',
-        r'penetration\s+test',
-        r'ethical\s+hack'
+        r'(security|cyber)\s+(engineer|analyst|specialist)\s*(i|1|one|entry|junior|associate)?',
+        r'information\s+(security|assurance)',
+        r'(risk|compliance|governance)\s+(analyst|engineer|specialist)',
+        r'security\s+(operations|ops|architect|consultant)',
+        r'(threat|vulnerability)\s+(intelligence|hunting|analyst|researcher|management)',
+        r'(malware|forensics?)\s+(analyst|researcher|investigator|engineer)',
+        r'(penetration|pen)\s*test',
+        r'ethical\s+hack',
+        r'(red|blue)\s+team',
+        r'(security|cyber)\s+(consultant|advisor|specialist)',
+        r'(identity|access)\s+(management|analyst)',
+        r'(incident|emergency)\s+response',
+        r'security\s+(audit|assessment)',
+        r'(cryptography|crypto)\s+(engineer|analyst)',
+        r'(network|endpoint|cloud)\s+security'
     ]
     
     for pattern in cyber_patterns:
         if re.search(pattern, title_lower):
             return 'Cybersecurity'
     
-    # Software Engineering patterns (expanded)
+    # Software Engineering patterns (comprehensive)
     swe_patterns = [
-        r'software\s+(engineer|developer)',
-        r'(junior|jr\.?|associate|entry|graduate|new grad)\s+(software|engineer|developer)',
-        r'(software|swe|developer|engineer)\s*(i|1|one|entry)?\b',
+        r'software\s+(engineer|developer|architect)',
+        r'(junior|jr\.?|associate|entry|graduate|new grad|early career)\s+(software|engineer|developer|programmer)',
+        r'(software|swe|developer|engineer|programmer)\s*(i|1|one|entry|junior|associate)?\b',
         r'(full\s*stack|frontend|front[-\s]*end|backend|back[-\s]*end|mobile|ios|android|web|application)\s+(engineer|developer)',
         r'(data|machine learning|ml|ai|platform|cloud|devops|site reliability|sre)\s+(engineer|developer)',
-        r'(qa|quality assurance|test|testing)\s+(engineer|analyst)',
-        r'systems?\s+(engineer|developer)',
-        r'network\s+(engineer|administrator)',
-        r'database\s+(engineer|administrator|developer)',
-        r'(ui|ux)\s+(engineer|developer)',
-        r'game\s+(developer|programmer)',
-        r'embedded\s+(engineer|developer)',
-        r'firmware\s+(engineer|developer)',
-        r'hardware\s+(engineer|developer)',
-        r'(programmer|coder|developer)\b',
-        r'engineer\s*(i|1|one|entry)?\b'
+        r'(qa|quality assurance|test|testing|automation)\s+(engineer|analyst|developer)',
+        r'(systems?|infrastructure|platform)\s+(engineer|developer|administrator)',
+        r'(network|database|cloud)\s+(engineer|administrator|developer)',
+        r'(ui|ux|frontend|backend)\s+(engineer|developer)',
+        r'(game|mobile|web|desktop)\s+(developer|programmer|engineer)',
+        r'(embedded|firmware|hardware)\s+(engineer|developer)',
+        r'(api|microservices|distributed systems)\s+(engineer|developer)',
+        r'(devops|sre|reliability)\s+(engineer|specialist)',
+        r'(build|release|deployment)\s+(engineer|specialist)',
+        r'(performance|scalability)\s+(engineer|specialist)',
+        r'(security|application security)\s+(engineer|developer)',
+        r'(blockchain|cryptocurrency)\s+(engineer|developer)',
+        r'(ar|vr|graphics)\s+(engineer|developer)',
+        r'(compiler|language)\s+(engineer|developer)',
+        r'(robotics|autonomous)\s+(engineer|developer)',
+        r'(programmer|coder|developer)\b(?!.*manager|.*director|.*lead)',
+        r'engineer\s*(i|1|one|entry|junior|associate)?\b(?!.*senior|.*lead|.*principal)',
+        r'(technical|software)\s+(consultant|analyst)(?!.*senior|.*lead)',
+        r'(solutions|integration)\s+(engineer|developer)(?!.*senior|.*lead)',
+        r'(research|development)\s+(engineer|scientist)(?!.*senior|.*lead|.*principal)'
     ]
     
     for pattern in swe_patterns:
@@ -119,29 +133,84 @@ def has_internship_keywords(title: str, description: str) -> bool:
     # Allow 'trainee' and 'campus' as they might be full-time programs
     return any(keyword in text for keyword in internship_keywords)
 
-def has_entry_level_confirmation(description: str) -> bool:
-    """Check if description confirms entry-level requirements - RELAXED."""
+def analyze_experience_requirements(title: str, description: str) -> Dict[str, any]:
+    """Analyze experience requirements from title and description."""
     import re
-    desc_lower = description.lower()
+    text = f"{title} {description}".lower()
     
-    # Strong disqualifying patterns (definitely senior)
-    senior_patterns = [
-        r'5\+\s*years?', r'6\+\s*years?', r'7\+\s*years?', r'8\+\s*years?',
-        r'senior', r'sr\.', r'lead', r'principal', r'staff', r'director', r'manager',
-        r'architect', r'head of', r'vp', r'vice president', r'chief',
-        r'minimum\s+[3-9]\+?\s*years?', r'at least\s+[3-9]\+?\s*years?',
-        r'[3-9]\+\s*years?\s+(required|minimum|experience)'
+    # Extract years of experience mentioned
+    years_patterns = [
+        r'(\d+)\+?\s*years?\s*(of\s+)?(experience|exp)',
+        r'(\d+)\+?\s*years?\s*(required|minimum|preferred)',
+        r'minimum\s+(\d+)\+?\s*years?',
+        r'at least\s+(\d+)\+?\s*years?',
+        r'(\d+)\+?\s*years?\s*in\s+',
+        r'(\d+)\+?\s*years?\s*with\s+'
     ]
     
-    for pattern in senior_patterns:
-        if re.search(pattern, desc_lower):
-            return False
+    years_found = []
+    for pattern in years_patterns:
+        matches = re.findall(pattern, text)
+        for match in matches:
+            if isinstance(match, tuple):
+                years_found.extend([int(m) for m in match if m.isdigit()])
+            elif match.isdigit():
+                years_found.append(int(match))
     
-    # If no strong senior indicators, assume it could be entry-level
-    return True
+    max_years = max(years_found) if years_found else 0
+    
+    # Check for seniority indicators in title
+    title_senior_patterns = [
+        r'\b(senior|sr\.?|lead|principal|staff|architect|director|manager|head\s+of|vp|vice\s+president|chief)\b',
+        r'\b(ii|iii|iv|2|3|4|5)\b'  # Level indicators
+    ]
+    
+    has_senior_title = any(re.search(pattern, title.lower()) for pattern in title_senior_patterns)
+    
+    # Check for entry-level indicators
+    entry_patterns = [
+        r'\b(entry\s*level|new\s*grad|junior|jr\.?|associate|graduate|recent\s*graduate|early\s*career)\b',
+        r'\b(level\s*1|l1|i\b|one)\b',
+        r'\b(0[-\s]*[12]?\s*years?)\b'
+    ]
+    
+    has_entry_indicators = any(re.search(pattern, text) for pattern in entry_patterns)
+    
+    return {
+        'max_years_required': max_years,
+        'has_senior_title': has_senior_title,
+        'has_entry_indicators': has_entry_indicators,
+        'years_mentioned': years_found
+    }
+
+def is_entry_level_job(title: str, description: str) -> bool:
+    """Strict entry-level filtering based on requirements analysis."""
+    analysis = analyze_experience_requirements(title, description)
+    
+    # Immediate disqualifiers
+    if analysis['has_senior_title']:
+        return False
+    
+    # If more than 2 years required, not entry level
+    if analysis['max_years_required'] > 2:
+        return False
+    
+    # If has explicit entry-level indicators, it's good
+    if analysis['has_entry_indicators']:
+        return True
+    
+    # If no years mentioned and no senior title, could be entry level
+    if analysis['max_years_required'] == 0:
+        return True
+    
+    # If 0-2 years mentioned, it's entry level
+    if analysis['max_years_required'] <= 2:
+        return True
+    
+    return False
 
 def is_relevant_job(job: Dict, settings: Dict) -> bool:
-    """Check if job matches criteria with title-first classification."""
+    """Check if job matches criteria with strict entry-level filtering."""
     from datetime import datetime, timedelta
     
     title = job.get('title', '')
@@ -172,9 +241,8 @@ def is_relevant_job(job: Dict, settings: Dict) -> bool:
     if not role_category:
         return False
     
-    # 4. Entry-level confirmation (relaxed approach)
-    # Check description for strong senior indicators
-    if not has_entry_level_confirmation(description):
+    # 4. STRICT entry-level confirmation
+    if not is_entry_level_job(title, description):
         return False
     
     # Store role category for later use

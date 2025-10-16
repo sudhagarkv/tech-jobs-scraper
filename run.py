@@ -13,6 +13,8 @@ from filters import JobFilter
 from providers.greenhouse import GreenhouseProvider
 from providers.lever import LeverProvider
 from providers.ashby import AshbyProvider
+from providers.linkedin import LinkedInProvider
+from providers.jobright import JobRightProvider
 from providers.experimental_jobright_like import ExperimentalJobrightLikeProvider
 
 def main():
@@ -42,6 +44,8 @@ def main():
         'greenhouse': GreenhouseProvider(settings['providers']['greenhouse']),
         'lever': LeverProvider(settings['providers']['lever']),
         'ashby': AshbyProvider(settings['providers']['ashby']),
+        'linkedin': LinkedInProvider(settings['providers']['linkedin']),
+        'jobright': JobRightProvider(settings['providers']['jobright']),
         'experimental_jobright_like': ExperimentalJobrightLikeProvider(settings['providers']['experimental_jobright_like'])
     }
     
