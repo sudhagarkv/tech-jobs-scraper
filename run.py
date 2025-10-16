@@ -69,23 +69,61 @@ def main():
     
     print(f"\nTotal jobs fetched: {len(all_jobs)}")
     
-    # Filter jobs
+    # Filter jobs with detailed tracking
     print("Filtering jobs...")
+    
+    # Track filtering statistics
+    total_jobs = len(all_jobs)
+    internship_count = 0
+    non_us_count = 0
+    
+    # Pre-filter to track rejections
+    from utils import has_internship_keywords, is_us_location, classify_role_by_title
+    
+    for job in all_jobs:
+        title = job.get('title', '')
+        location = job.get('location', '')
+        description = job.get('description', '')
+        
+        if has_internship_keywords(title, description):
+            internship_count += 1
+        elif not is_us_location(location):
+            non_us_count += 1
+    
     filtered_jobs = job_filter.filter_jobs(all_jobs)
-    print(f"Relevant jobs after filtering: {len(filtered_jobs)}")
+    
+    # Count final results by category
+    final_swe = sum(1 for job in filtered_jobs if job.get('role_category') == 'SWE')
+    final_cyber = sum(1 for job in filtered_jobs if job.get('role_category') == 'Cybersecurity')
+    
+    print(f"Kept {len(filtered_jobs)} US jobs (SWE: {final_swe}, Cyber: {final_cyber}). Skipped internships: {internship_count}, non-US: {non_us_count}.")
     
     # Ensure data directory exists
     os.makedirs('data', exist_ok=True)
     
+    # Sort by posted_date DESC, then company
+    filtered_jobs.sort(key=lambda x: (x.get('posted_date', ''), x.get('company', '')), reverse=True)
+    
+    # Deduplicate by company + title + url
+    seen = set()
+    deduped_jobs = []
+    for job in filtered_jobs:
+        key = (job.get('company', ''), job.get('title', ''), job.get('url', ''))
+        if key not in seen:
+            seen.add(key)
+            deduped_jobs.append(job)
+    
+    print(f"After deduplication: {len(deduped_jobs)} unique jobs")
+    
     # Save results
     print("Saving results...")
-    save_json(filtered_jobs, 'data/jobs.json')
+    save_json(deduped_jobs, 'data/jobs.json')
     
     # Save as CSV
-    if filtered_jobs:
-        df = pd.DataFrame(filtered_jobs)
+    if deduped_jobs:
+        df = pd.DataFrame(deduped_jobs)
         df.to_csv('data/jobs.csv', index=False)
-        print(f"Saved {len(filtered_jobs)} jobs to data/jobs.json and data/jobs.csv")
+        print(f"Saved {len(deduped_jobs)} jobs to data/jobs.json and data/jobs.csv")
     else:
         print("No jobs to save")
     

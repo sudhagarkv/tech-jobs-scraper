@@ -6,41 +6,32 @@ class JobFilter:
         self.settings = settings
     
     def categorize_role(self, title: str) -> str:
-        """Categorize job role based on title."""
-        title_lower = title.lower()
-        
-        # Check for cybersecurity keywords
-        cyber_keywords = ['security', 'cybersecurity', 'infosec', 'penetration', 'ethical hacker', 'soc', 'incident response', 'threat', 'compliance']
-        if any(keyword in title_lower for keyword in cyber_keywords):
-            return 'Cybersecurity'
-        
-        # Default to Software Engineering
-        return 'Software Engineering'
+        """Categorize job role based on title - use stored classification."""
+        # This will be set by the filtering process
+        return 'SWE'  # Default fallback
     
     def determine_level(self, title: str, description: str) -> str:
         """Determine experience level based on title and description."""
         import re
+        title_lower = title.lower()
         text = f"{title} {description}".lower()
         
-        # New Grad indicators
-        if any(keyword in text for keyword in ['new grad', 'graduate', 'college hire', 'campus hire', 'university graduate']):
+        # Check title first for level indicators
+        if any(indicator in title_lower for indicator in ['new grad', 'graduate', 'early career']):
             return 'New Grad'
         
-        # 0-1 year indicators
-        if any(keyword in text for keyword in ['0-1', '0 years', '1 year']) or re.search(r'0[-\s]*1\s*year', text):
+        if any(indicator in title_lower for indicator in ['junior', 'jr.', 'associate']):
+            return 'Junior'
+        
+        if any(indicator in title_lower for indicator in [' i ', ' 1 ', ' one']):
+            return 'Level I'
+        
+        # Check description for experience patterns
+        if re.search(r'0[–-]1\s*years?', text) or '0 to 1 year' in text:
             return '0-1 Years'
         
-        # 0-2 year indicators
-        if any(keyword in text for keyword in ['0-2', '1-2']) or re.search(r'0[-\s]*2\s*year|1[-\s]*2\s*year', text):
-            return '0-2 Years'
-        
-        # 0-3 year indicators
-        if any(keyword in text for keyword in ['0-3', '2-3']) or re.search(r'0[-\s]*3\s*year|2[-\s]*3\s*year', text):
-            return '0-3 Years'
-        
-        # Junior/Associate level
-        if any(keyword in text for keyword in ['junior', 'jr.', 'associate', 'level 1', 'l1', 'trainee']):
-            return 'Junior'
+        if '1 year preferred' in text or '1 year experience' in text:
+            return '1 Year'
         
         # Default for entry-level jobs
         return 'Entry Level'

@@ -31,16 +31,101 @@ def extract_domains_from_text(text: str) -> List[str]:
 
 def normalize_company_name(name: str) -> str:
     """Normalize company name for API slugs."""
+    import re
     return re.sub(r'[^a-zA-Z0-9]', '', name.lower())
 
-def is_relevant_job(job: Dict, settings: Dict) -> bool:
-    """Check if job matches our criteria - STRICT entry-level only."""
-    from datetime import datetime, timedelta
+def is_us_location(location: str) -> bool:
+    """Check if location is US-based."""
     import re
+    location = location.lower().strip()
     
-    title = job.get('title', '').lower()
-    location = job.get('location', '').lower()
-    description = job.get('description', '').lower()
+    # Direct US indicators
+    us_indicators = ['united states', 'usa', 'u.s.', ' us ', 'remote (us)', 'us-remote', 'remote - united states']
+    if any(indicator in location for indicator in us_indicators):
+        return True
+    
+    # US state codes
+    us_states = [
+        'al', 'ak', 'az', 'ar', 'ca', 'co', 'ct', 'de', 'fl', 'ga', 'hi', 'id', 'il', 'in', 'ia', 'ks', 'ky', 'la', 'me', 'md',
+        'ma', 'mi', 'mn', 'ms', 'mo', 'mt', 'ne', 'nv', 'nh', 'nj', 'nm', 'ny', 'nc', 'nd', 'oh', 'ok', 'or', 'pa', 'ri', 'sc',
+        'sd', 'tn', 'tx', 'ut', 'vt', 'va', 'wa', 'wv', 'wi', 'wy', 'dc', 'pr'
+    ]
+    
+    # Check for "City, ST" pattern
+    state_pattern = r'\b(' + '|'.join(us_states) + r')\b'
+    if re.search(state_pattern, location):
+        return True
+    
+    return False
+
+def classify_role_by_title(title: str) -> str:
+    """Classify role category based on title patterns - TITLE FIRST approach."""
+    import re
+    title_lower = title.lower()
+    
+    # Cybersecurity patterns
+    cyber_patterns = [
+        r'(security|cyber)\s+(engineer|analyst)\s*(i|1|one)?\b',
+        r'(junior|jr\.?|associate)\s+(security|cyber)\s+(engineer|analyst)',
+        r'(application security|appsec|product security|cloud security|iam|identity|soc|incident response|threat|detection|grc|siem|splunk|vulnerability|pentest)',
+        r'(graduate|new grad|early career)\s+(security|cyber)'
+    ]
+    
+    for pattern in cyber_patterns:
+        if re.search(pattern, title_lower):
+            return 'Cybersecurity'
+    
+    # Software Engineering patterns
+    swe_patterns = [
+        r'software engineer\s*(i|1|one)\b',
+        r'(junior|jr\.?|associate)\s+(software|swe|developer|engineer)',
+        r'(software|swe|developer)\s*(i|1|one)\b',
+        r'(graduate|new grad|early career)\s+software',
+        r'(full\s*stack|frontend|front[-\s]*end|backend|back[-\s]*end|mobile|ios|android)\s+(engineer|developer)'
+    ]
+    
+    for pattern in swe_patterns:
+        if re.search(pattern, title_lower):
+            return 'SWE'
+    
+    return None
+
+def has_internship_keywords(title: str, description: str) -> bool:
+    """Check if job contains internship/co-op keywords."""
+    text = f"{title} {description}".lower()
+    internship_keywords = ['intern', 'internship', 'co-op', 'coop', 'trainee', 'apprentice', 'apprenticeship', 'campus', 'fellow', 'fellowship']
+    return any(keyword in text for keyword in internship_keywords)
+
+def has_entry_level_confirmation(description: str) -> bool:
+    """Check if description confirms entry-level requirements."""
+    import re
+    desc_lower = description.lower()
+    
+    # Entry-level patterns
+    entry_patterns = [
+        r'0[–-]1\s*years?', r'0\s*to\s*1\s*years?', r'1\s*year\s*preferred',
+        r'0[–-]1\s*year\b', r'0\s*to\s*1\s*year\b'
+    ]
+    
+    for pattern in entry_patterns:
+        if re.search(pattern, desc_lower):
+            return True
+    
+    # Check for disqualifying patterns
+    senior_patterns = [r'2\+\s*years?', r'3\+\s*years?', r'4\+\s*years?', r'5\+\s*years?']
+    for pattern in senior_patterns:
+        if re.search(pattern, desc_lower):
+            return False
+    
+    return True
+
+def is_relevant_job(job: Dict, settings: Dict) -> bool:
+    """Check if job matches criteria with title-first classification."""
+    from datetime import datetime, timedelta
+    
+    title = job.get('title', '')
+    location = job.get('location', '')
+    description = job.get('description', '')
     
     # Check if job is within 3 months
     posted_date = job.get('posted_date', '')
@@ -53,50 +138,30 @@ def is_relevant_job(job: Dict, settings: Dict) -> bool:
         except:
             pass
     
-    # Check location
-    us_locations = [loc.lower() for loc in settings['filters']['locations']]
-    if not any(loc in location for loc in us_locations):
+    # 1. Exclude internships first
+    if has_internship_keywords(title, description):
         return False
     
-    # STRICT: Exclude senior roles first
-    job_text = f"{title} {description}".lower()
-    senior_keywords = [
-        'senior', 'sr.', 'sr ', 'lead', 'principal', 'staff', 'director', 'manager',
-        'architect', 'head of', 'vp ', 'vice president', 'chief',
-        '3+ years', '4+ years', '5+ years', '6+ years', '3-5 years', '4-6 years',
-        '3 years', '4 years', '5 years', '6 years', 'minimum 3', 'minimum 4', 'minimum 5',
-        'at least 3', 'at least 4', 'at least 5', 'experienced', 'expert'
-    ]
-    
-    if any(keyword in job_text for keyword in senior_keywords):
+    # 2. Check US location
+    if not is_us_location(location):
         return False
     
-    # Check job title relevance
-    all_titles = []
-    all_titles.extend([t.lower() for t in settings['filters']['job_titles']['software_engineering']])
-    all_titles.extend([t.lower() for t in settings['filters']['job_titles']['cybersecurity']])
-    
-    title_match = any(keyword in title for keyword in all_titles)
-    
-    if not title_match:
-        general_roles = ['engineer', 'developer', 'analyst', 'specialist']
-        title_match = any(role in title for role in general_roles)
-    
-    if not title_match:
+    # 3. Title-first classification
+    role_category = classify_role_by_title(title)
+    if not role_category:
         return False
     
-    # STRICT: Must have entry-level indicators
-    entry_keywords = [
-        'new grad', 'graduate', 'entry level', 'entry-level', 'junior', 'jr.',
-        '0-1', '0-2', '0-3', '0 years', '1 year', '2 years', 'associate',
-        'level 1', 'l1', 'early career', 'recent graduate', 'college hire',
-        'university graduate', 'campus hire', 'trainee', 'intern'
-    ]
+    # 4. Entry-level confirmation (optional secondary check)
+    # If title already indicates entry-level, we're good
+    # Otherwise, check description for confirmation
+    title_lower = title.lower()
+    title_entry_indicators = ['junior', 'jr.', 'associate', 'graduate', 'new grad', 'early career', ' i ', ' 1 ', ' one']
+    has_title_entry = any(indicator in title_lower for indicator in title_entry_indicators)
     
-    has_entry_keywords = any(keyword in job_text for keyword in entry_keywords)
+    if not has_title_entry:
+        if not has_entry_level_confirmation(description):
+            return False
     
-    # Also check for patterns like "0-1 years", "1-2 years" etc.
-    year_patterns = [r'0[-\s]*1\s*year', r'0[-\s]*2\s*year', r'0[-\s]*3\s*year', r'1[-\s]*2\s*year']
-    has_year_pattern = any(re.search(pattern, job_text) for pattern in year_patterns)
-    
-    return has_entry_keywords or has_year_pattern
+    # Store role category for later use
+    job['_role_category'] = role_category
+    return True
